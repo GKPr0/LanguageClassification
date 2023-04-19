@@ -1,0 +1,633 @@
+{
+    "Source": {
+        "Root": "TestData",
+        "Languages": [
+            "CS",
+            "SK"
+        ],
+        "Models": {
+            "Fast": "Models/3_fasttext_model.bin"
+        }
+    },
+    "Results": {
+        "Total": 2048,
+        "Correct": 2012,
+        "Accuracy": 98.2421875,
+        "FaultyTests": [
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "cenový porovnávač",
+                    "konvice na čaj nebo konvice na kávu z mnoha e shopů vybírejte chytře podle ceny parametrů",
+                    "vínové konvice vínové konvice na čaj vínové konvice na kávu vínové konvička vínové čajová konvice vínové čajník vínové čajníky vínové cena bez omezení jen slevy levné do kč kč kč kč kč kč a více jen zboží skladem novinky pořizujete si novou kuchyni a chcete si vybrat tu správnou",
+                    "potom je dobré vědět co by měla mít každá pořádná moderní kuchyně",
+                    "v článku najdete několik tipů a příkladů pro inspiraci které vám mohou pomoci s touto složi",
+                    "jaký je rozdíl mezi obyčejným a luxusním bytem jehož cena může být až několikanásobná",
+                    "rozdíl spočívá nejen ve velikosti kvalitě lokalitě ale i množství nabídek",
+                    "zjistěte čím vším se vyznačují luxusní byty a podíve",
+                    "bydlení inspirace fotogalerie vínové konvicevínové konvice na čajvínové konvice na kávuvínové konvičkavínové čajová konvicevínové čajníkvínové čajníkyvínové"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "z a",
+                    "místo výkonu práce moravskoslezský kraj",
+                    "požadujeme minimálně sš vzdělání stavebního směru řidičské oprávnění skupiny b aktivní řidič komunikační schopnosti zkušenosti s vedením kolektivu trestní bezúhonnost",
+                    "náplň práce vedení a realizace stavební zakázky dle projektové dokumentace organizace práce na stavbě vedení stavební dokumentace komunikace s investory",
+                    "platové podmínky od kč prémie kč",
+                    "zaměstnanecké výhody stravenky příspěvek na penzijní pojistné služební vozidlo mobilní telefon",
+                    "telefonický kontakt od pondělí do pátku v čase hodin"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "shure sada mic",
+                    "na bicí včetně kufru kabel xlr",
+                    "kompaktní sada mikrofonů pro ozvučení bicích souprav",
+                    "obsahuje x pg snare tom mikrofony x pg mikrofon pro kopák x a d úchyt pro uchycení",
+                    "m xlr xlr kybely a kufřík součástí",
+                    "základní sada pro snímání bicích nástrojů obsahuje kusy mikrofonů pro snímání malého bubnu a přechodů pg mikrofon pro snímání velkého bubnu pg a tři adaptéry a d pro uchycení mikrofonů pg za ráfek bubnu",
+                    "všechny mikrofony jsou vybaveny m dlouhým kabelem xlr xlr",
+                    "součástí sady je plastový transportní kufřík",
+                    "mikrofony jsou v odolném kovovém provedení se zesílenou mřížkou jež odolává oděru pádům i úderům paliček"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "jaroslav kováč je rom z pošumavské vesničky na prachaticku",
+                    "v rámci projektu perspektiva pracovního uplatnění etnických menšin který od března realizuje nezisková společnost impakt se od začátku snažil využít všechny možnosti projektu ať to byly prvotní motivační semináře individuální konzultace rekvalifikace",
+                    "v rámci projektu si udělal řidičský výcvik a zkoušky skupiny b a skupiny t a v neposlední řadě využil i možnosti dotovaného místa v jeho obci",
+                    "získáním řidičského průkazu b a t se zvýšila jeho šance najít si kvalifikovanější pracovní místo",
+                    "společnost impakt pracuje od roku",
+                    "zaměřuje se především na obyvatele periferií na sociální práci iniciování a vytváření komunitních projektů",
+                    "další její činností je organizace vzdělávacích kurzů rekvalifikačních programů akcí pro veřejnost a volnočasových aktivit pro děti a mládež",
+                    "aktivity společnosti jsou dále zacíleny na budoucnost venkova a obnovu kulturní krajiny",
+                    "impakt provozuje mateřské a komunitní centrum v dubu společnost působí v regionu prachaticka a v přilehlých oblastech jihočeského kraje",
+                    "je členem místní akční skupiny chance in nature a sítě mateřských center",
+                    "v roce se společnost impakt také zapojila do projektu univ",
+                    "úspěšně zrealizovala pilotní ověřování programu h chovatel a ošetřovatel ovcí a koz a h vodař údržba vodních toků",
+                    "hned po zahájení náboru účastníků do pilotního ověřování profesní kvalifikace vodař údržba vodních toků h byl právě jarda kováč vytipován jako vhodný kandidát",
+                    "jarda projevil ihned zájem a měl chuť pustit se do studia",
+                    "navíc sám vytipoval další romy z jeho okolí kteří by mohli mít o kurz rovněž zájem",
+                    "tento prvotní zájem byl velice potěšující",
+                    "potvrdila se tak prvotní myšlenka že jarda který již svoji zodpovědnost prokázal v dřívějších aktivitách se zodpovědně pustí i do kurzu vodař údržba vodních toků",
+                    "s náplní pilotního ověřování kurzu byli účastníci seznámení v rámci vstupního diagnostického modulu",
+                    "protože má jarda pouze základní vzdělání a nebylo mu umožněno další vzdělávání přijal tuto nabídku především proto aby získal nové znalosti a praktické dovednosti které byly náplní kurzu práce s křovinořezem s elektrocentrálou s drobnými elektrickými nástroji atd",
+                    "dalším důvodem bylo že si chtěl ověřit svoji dosavadní praxi z předchozích zaměstnání",
+                    "pracoval ve stavební firmě jako pomocný zedník získal bohaté pracovní zkušenosti na různých zemědělských farmách v okolí jeho bydliště",
+                    "v současnosti pracuje pro obec ktiš kde bydlí",
+                    "jeho pracovní náplní je především koordinace údržbových prací údržba zeleně porostů u cest péče o pracovní nástroje sekačky křovinořezy práce v lese a neposlední řadě i údržbové práce na potocích v katastru obce",
+                    "získané znalosti a zkušenosti jak z praktické tak teoretické výuky z pilotního ověřování bohatě využívá každý den ve své práci",
+                    "stanovený cíl úspěšně kurz dokončit se jardovi podařilo",
+                    "od začátku ke všemu přistupoval velice aktivně",
+                    "vzhledem k tomu že kurz probíhal v dubu u prachatic bylo potřeba vyřešit dopravu na místo konání",
+                    "jarda ochotně nabídl další účastníkům z jeho obce že je do dubu bude dopravovat",
+                    "méně zkušeným a zručným kandidátům byl vždy ochoten pomoci jak radou tak předáním praktické zkušenosti",
+                    "ze zkoušek z teoretické části měl daleko větší obavy než z praktické proto měl při teoretické výuce na lektora mnoho dotazů a chtěl problematiku vodohospodářského zákona v základu pochopit",
+                    "především pak související předpisy čtení projektové dokumentace atd",
+                    "v praktické části si byl mnohem jistější",
+                    "při zkouškách vše zvládal velice bravurně byl na zkoušky velice dobře připravený a proto působil velmi jistě",
+                    "nebál se před hodnotiteli na otázky ihned odpovídat byl vzorem pro další kandidáty pilotního ověřování",
+                    "na otázku které znalosti a dovednosti získal na kurzu a zda je využije ve svém zaměstnání jarda odpověděl ano myslím že všechny znalosti jak teoretické tak praktické využiji ve svém dosavadním zaměstnání",
+                    "pracuji na obci mám na starosti rozdělování a plánování práce jako je údržba zeleně práce v lese ale také práce na údržbě koryt potoků kterých je v katastru obce mnoho",
+                    "dověděl jsem se a naučil jsem se hodně a pevně věřím že paní starostka tuto moji snahu ocení a budu pro ni oporou pracovní party na obci",
+                    "také jsem si uvědomil že když budeme potoky a další vodní toky dobře udržovat tak předejdeme velkým problémům do budoucna jako jsou povodně vymílání břehů a tak podobně",
+                    "děkuji za tu možnost že jsem se bezplatně mohl zúčastnit tohoto kurzu a také za to že jsem si uvědomil že i když mám jen základní vzdělání tak díky svojí pracovní zkušenosti z různých oborů něco umím když je problém umím si poradit a když je přede mnou něco nového nebojím se toho spolupráci s pracovníky pilotního ověřování hodnotí jarda dobře",
+                    "také jim se s ním dobře spolupracovalo hlavně proto že se jarda nebojí zeptat když mu něco není úplně jasné když se chce ujistit že informace dobře pochopil",
+                    "ale asi nejvíc si jarda cenní setkání s lektory kteří k němu přistupovali naprosto bez předsudků velice si vážili jeho zájmu a byli překvapeni jeho dosavadními pracovními zkušenostmi",
+                    "další pozitivum je že jak lektor pan hron pracuje na povodí otavy ve strakonicích tak lektor pak zach pracuje jako osvč jsou oba dva chlapi z praxe",
+                    "své práci rozumí a snaží se své zkušenosti dovednosti a znalosti předat dál",
+                    "v průběhu kurzu se také ukázalo že jarda má mezi ostatními romy přirozenou autoritu",
+                    "dokázal ostatním pomoci poradit a v případě neúspěchu je i povzbudit",
+                    "zaměstnavatel jardy kováče paní starostka obce ktiš jardu po celou dobu povzbuzovala",
+                    "umožnila mu uvolnění z práce a po úspěšném ukončení kurzu na něj byla pyšná",
+                    "a naskytne li se v budoucnu pro jardu další možnost zvýšení profesní kvalifikace určitě mu bude paní starostka nápomocna",
+                    "určitě jej povzbuzovala i jeho partnerka která jej zkoušela doma z teoretických otázek ze kterých měl jarda před zkouškami obavy",
+                    "také vzdělavatelé jsou rádi že průběh pilotního ověřování i náplň profesní kvalifikace vodař údržba vodních toků h hodnotí jarda velmi pozitivně",
+                    "jak sám uvádí je to pro něho zkušenost která ho inspirovala k dalšímu profesnímu růstu s kurzem jsem byl spokojen jsem moc rád že jsem všechno úspěšně zvládnul",
+                    "nevím co bych změnil ale v průběhu kurzu mě napadlo že by bylo fajn si v rámci kurzu udělat zkoušky na motorovou pilu",
+                    "tento úspěch mě určitě podpořil do budoucna že i když mám jen základní školu mám šanci na kvalifikovanou práci",
+                    "mým koníčkem jsou domácí zvířata hlavně koně a když bude možnost určitě bych se i v tomto oboru rád zúčastnil nějakého kurzu vzdělavatelé drží jardovi palce aby ve svém nasazení pokračoval",
+                    "pevně věří že získané znalosti jsou přínosem pro něj i pro jeho zaměstnavatele",
+                    "společnost impakt se bude snažit pro něj i pro další takto motivované zájemce získat v rámci dalších projektů finanční prostředky na podporu jejích osobního i profesního růstu",
+                    "jsou si tady jistí že jarda bude mít zájem o další kurzy určitě to bude kurz práce s motorovou pilou"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "zdravím vás",
+                    "dneska si povíme něco o lykantropii neboli o přeměně člověka ve zvíře",
+                    "nejčastější případ je samozřejmě vlkodlak člověk"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "londýn",
+                    "hume oznámil dnes v dolejší sněmovně že po svátcích navrhne aby sněmovna toto uzavřela poněvadž obilní a potravní ceny nyní takové jsou jakové byly v r",
+                    "je sněmovna toho mínění",
+                    "celý text"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "motto komedie n",
+                    "v",
+                    "gogola revizor nevrč brachu na zrcadlo když máš křivou hubu",
+                    "v městě kocourově se dozvědí že přijede kontrola",
+                    "řeší to nejen městská rada ale také manželky jejich členů",
+                    "mladý muž projíždějící jako turista městem je omylem považován za kontrolora a městští radní se ho snaží zkorumpovat",
+                    "dílo nanejvýš aktuální a nadčasové i v dnešní době"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "bojovní bilí andeli dostali v lučenci gólovú nakladačku",
+                    "bojovní bilí andeli dostali v lučenci gólovú nakladačku"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "uvažujete nad letnou dovolenkou v turecku",
+                    "sprievodca letoviskami pomôže s výberom"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "reklama na úkor bezpečnosti strategické objekty chránime málo"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "už tento víkend",
+                    "júna sa na masarykovom okruhu v brne uskutoční svetový šampionát superbikov v rámci ktorého sa konajú aj preteky triedy supersport",
+                    "práve v tejto triede sa s voľnou kartou a so štartovým číslom predstaví mladý slovenský pretekár roman kučera",
+                    "šestnásťročný jazdec motoclubu baláž má na svojom konte niekoľko vydarených sezón v juniorských kategóriách a vlani sa úspešne predstavil publiku na domácom slovakia ringu keď v rámci ceny slovenska zvíťazil v triede moto",
+                    "pred blížiacim podujatím majstrovstiev sveta v brne rád prijal možnosť zúčastniť sa pretekov hoci sa jedná o triedu s ktorou doteraz nemá skúsenosti",
+                    "nový motocykel kawasaki ninja bol dokončený doslova v tomto čase a už v nedeľu ho mladý jazdec osedlá v rámci testovania na slovakia ringu",
+                    "popritom roman neustále pracuje aj na svojej fyzickej kondícii v čom mu ako tréner pomáha známy český pretekár karel pešek",
+                    "roman kučera predovšetkým sa chcem poďakovať milošovi balážovi a môjmu otcovi že sme na poslednú chvíľu zložili motocykel",
+                    "bolo to všetko veľmi hektické ale podarilo sa",
+                    "žiaľ na motorke som ešte nesedel ale o to viac sa teším na prvú jazdu na nej",
+                    "okruh v brne našťastie veľmi dobre poznám takže hoci tam pôjdem na novej motorke tak to nebude vôbec naslepo",
+                    "čo sa týka cieľov samozrejme rád by som sa videl na bodoch ale uvedomujem si že tam budú oveľa skúsenejší súperi a prvoradým cieľom preto bude kvalifikovať sa do pretekov a potom uvidíme",
+                    "ak by sa mi podarilo skončiť v top tak by to bolo fajn",
+                    "najdôležitejším cieľom však pre mňa bude nazbierať v takejto konkurencii čo najviac skúseností a naplno si to užiť",
+                    "ďakujem všetkým ktorí mi umožnili zažiť túto pre mňa novú skúsenosť urobím všetko pre to aby som ich dôveru nesklamal miloš baláž prezident motoclubu baláž som rád že sme v spolupráci so slovenskou motocyklovou federáciou dokázali romanovi vybaviť voľnú kartu pre preteky majstrovstiev sveta",
+                    "všetko to bolo na poslednú chvíľu a pri príprave celkom nového motocykla na pretekársky sme mali čo robiť pri zabezpečení všetkých potrebných dielov aby na ňom mohol roman v nedeľu trénovať",
+                    "moje poďakovanie za pomoc patrí všetkým ktorí nám podali pomocnú ruku ľubošovi gréčovi ktorý nás žiaľ nedávno predčasne opustil jeho dcére pavle spoločnostiam kawasaki slovensko hs moto racing quadmoto centrum fim dorna smf táni silvii zuzke a paťke a takisto martinovi kuzmovi jakubovi a matějovi smržovcom jirkovi nespěšnému a romanovi kučerovi staršiemu",
+                    "verím že každý priaznivec motocyklového športu vie o čom to je takže nám a hlavne romanovi držte palce"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "karaganda",
+                    "júna tasr kariéra slovenského hokejistu mareka tvrdoňa bude pokračovať v kazachstane",
+                    "útočník ktorý v sezóne pôsobil v škótskom edinburghu a v žiline sa dohodol na spolupráci s klubom sarjarka karaganda",
+                    "klub o tom informoval na oficiálnej stránke",
+                    "tvrdoň začal sezónu v drese edinburgh capitals a v pätnástich zápasoch dosiahol gólov a asistencií",
+                    "počas sezóny sa vrátil do slovenskej tipsport ligy v ktorej v minulosti pôsobil v drese nitry a dohodol sa na spolupráci so žilinou",
+                    "za vlkov odohral zápasov v ktorých strelil gólov a na prihral"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "tentokrát v okolí mladá boleslav",
+                    "ako ináč aj tentokrát bola dôkladná príprava a cesta bola naplánovaná s plánom navštíviť zaujímavé kešky po trase",
+                    "výber nemohol samozrejme zahrnúť všetky jednu od druhej ale za tie krásne miesta čo sme navštívili patrí ownerom veľké poďakovanie odpovede a foto sa budem veľmi snažiť v čo najkratšom čase doposlať a prípadne doplniť aj konkrétne komentáre a favoriťáky",
+                    "hlavná udalosť nedeľné povyrazenie si na sériach tec a jtjpt nás celkom zabavila a ostanú nezabudnuteľné spomienky na celodennú zábavku od svitania do mrku za striedavej pomoci slniečka vetríka dáždika a toooolkého logovania kto neskúsi nevie čo to je za zábavku"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "prof",
+                    "mudr",
+                    "jiří heřt drsc",
+                    "je lekársky prominent ktorého som zatiaľ ešte nepočul dostatočne vehementne vystúpiť proti miliónovým pseudolékům a miliardovým panaceám v reálnom zdravotníckom systéme ale keď príde na boj proti drobným šarlatánom a ich teóriu prekyslenie organizmu tak by som ho vo voľbe slov len ťažko prekonal kyslá moč je normálne situácie a zisťovanie kyslosti moču papieriky a najmä vyvodzovanie nejakých záverov o zdravie človeka je nezmysel",
+                    "preto sú zbytočné aj všetky prostriedky ktoré majú kyslosť organizmu znížiť",
+                    "celú otázku a odpoveď nájdete tu",
+                    "inými slovami ak sa cítite zdraví o kyslosť moču a prekyslenie organizmu sa nemusíte zaujímať",
+                    "tvrdiť že rakovina je spôsobená prekyslením je ako keby niekto tvrdil že rakovina je spôsobená chrípkou",
+                    "ospravedlňujeme sa ale tento článok nie je zatiaľ dokončený",
+                    "súčasná rozpracovaná verzia nevyjadruje jeho konečnú podobu"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "na venci u hydromotorov s dvojitým ozubením",
+                    "kulisa zväčšuje radiálne rozmery hydromotora iba v jednom mieste obvodu kde je umiestnený klzný kameň a výrobná náročnost klzného kameňa s vodiacou drážkou je menšia ako výrobná náročnosť cykloidného ozubenia na pripojených výkresoch je znázornený príklad prevedenia kulisového hydromotora podľa vynálezu kde je na obr",
+                    "usporiadanie mechanizmu kulisového hydromotora v priečnom reze rovinou ii ii",
+                    "bez protilaku vytvorí sa pôsobením tlaku kvapaliny v polovine zubových medzier sila ktorá pootočí planétu s kulisou okolo čapu",
+                    "súčasne sa pootoči aj excentér na nosnom hriadeli a o rovnaký uhol sa pootočí tiež smer výslednice hydraulických síl",
+                    "nakoľko pri pootočeni planéty vznikne odvaľovanie v cykloidnom ozubení pootočí sa aj veniec a to tak že pri pootočeni excentra o celú jednu otáčku sa veniec pootočí o jednu",
+                    "dosky reaguje na zmeny regulovanej veličiny t",
+                    "j",
+                    "tlaku hydromotora s malým tázovým posunom čo zabezpečuje rýchlosť stabilitu a kvalitu regulačného procesu",
+                    "na pripojenom výkrese je schematicky znázornený príklad prevedenia kombinovaného regulačného bvodu tlakovej regulácie hydromotora podľa vynálezu kombinovaný regulačný obvod tlakovej regulácie hydromotora pozostáva z prvéhoservovalca v",
+                    "ktorom je uložený prvý servopiest",
+                    "spojený s výkyv nou doskou s ktorou je nlechanicky spojený tiež druhý servopiest uložený v druhom servovalci",
+                    "prvý servopiest je opretý o pružinu umiestnenú v prvom servovalci ktorý je cez prvé nízkotlakové vedenie napojený na externý prívod tlaku",
+                    "druhý servovalec je cez druhé nizkotlakové vedenie napojený na výstup prvého tlakového ventila ktorého vstup je cez tretie vysokotlakové vedenie a prvý"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "progr",
+                    "podpr",
+                    "funč kl",
+                    "ekon kl",
+                    "názov návrh návrh návrh výdaje plánovanie manažment a kontrola manažment tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity príspevok do doplnkových dôchodkových poisťovní školenia kurzy semináre porady konferencie prídel do sociálneho fondu odmeny zamestnancov mimopracovného pomeru manažment výkon funkcie primátora tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity reprezentačné jednotlivcovi výkon funkcie primátora výkon funkcie prednostu tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity reprezentačné výkon funkcie prednostu strategické plánovanie a projekty z bankových úverov dlhodobých realizácia nových stavieb rekonštrukcia a modernizácia špeciálne služby prípravná a projektová dokumentácia realizácia nových stavieb rekonštrukcia a modernizácia strategické plánovanie a projekty rozpočet mesta špeciálne služby poplatky a odvody národnej banke slovenska rozpočet mesta plánovanie manažment a kontrola propagácia a marketing propagácia a prezentácia mesta propagácia reklama a inzercia propagácia a prezentácia mesta partnerské mesta tuzemské partnerské mesta kronika mesta odmeny zamestnancov mimopracovného pomeru kronika mesta propagácia a marketing interné služby mesta právne služby špeciálne služby právne služby činnosť orgánov mesta stravovanie odmeny a príspevky strana z činnosť orgánov mesta hospodárska správa a údržba majetku mesta budov objektov alebo ich častí budov objektov alebo ich častí špeciálne služby hospodárska správa a údržba majetku mesta prevádzka úradu tuzemské energie vodné stočné poštové služby a telekomunikačné služby interiérové vybavenie výpočtová technika prevádzkové stroje prístroje zariadenie všeobecný materiál knihy časopisy noviny učebnice učebné pomôcky výpočtovej techniky prevádzkových strojov prístrojov zariadení všeobecné služby špeciálne služby poplatky a odvody stravovanie poistné rozpočtovej organizácii na členské príspevky prevádzka úradu interný informačný systém špeciálne služby interný informačný systém autodoprava palivo mazivá oleje špeciálne kvapaliny servis údržba opravy a výdavky s tým spojené poistenie osobných automobilov autodoprava interné služby mesta služby občanom činnosť matriky tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity príspevok do doplnkových dôchodkových poisťovní všeobecný materiál prídel do sociálneho fondu činnosť matriky evidencia obyvateľstva tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity všeobecný materiál evidencia obyvateľstva organizácia občianskych obradov všeobecný materiál organizácia občianskych obradov noviny naše mesto všeobecný materiál odmeny zamestnancov mimopracovného pomeru noviny naše mesto web stránka mesta špeciálne služby web stránka mesta spoločný stavebný úrad tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie strana z na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity poštové služby a telekomunikačné služby všeobecný materiál prídel do sociálneho fondu všeobecný materiál spoločný stavebný úrad aktívna zamestnanosť tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity všeobecný materiál prídel do sociálneho fondu aktívna zamestnanosť služby občanom bezpečnosť mestská polícia tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity príspevok do doplnkových dôchodkových poisťovní tuzemské poštové služby a telekomunikačné služby všeobecný materiál pracovné odevy obuv a pracovné pomôcky palivo mazivá oleje špeciálne kvapaliny servis údržba opravy a výdavky s tým spojené poistenie školenia kurzy semináre porady konferencie stravovanie prídel do sociálneho fondu mestská polícia ochrana pred požiarmi špeciálne služby odmeny zamestnancov mimopracovného pomeru ochrana pred požiarmi verejné osvetlenie energie rekonštrukcia a modernizácia verejné osvetlenie bezpečnosť komunikácie rekonštrukcia chodníkov v meste rekonštrukcia a modernizácia rekonštrukcia chodníkov v meste komunikácie vzdelávanie materská škola rozpočtovej organizácii materská škola základná škola rozpočtovej organizácii základná škola základná umelecká škola tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti strana z na poistenie do rezervného fondu solidarity príspevok do doplnkových dôchodkových poisťovní tuzemské energie vodné stočné poštové služby a telekomunikačné služby prevádzkové stroje prístroje zariadenie všeobecný materiál stravovanie prídel do sociálneho fondu odmeny zamestnancov mimopracovného pomeru základná umelecká škola školské stravovne rozpočtovej organizácii školské stravovne školský klub deti rozpočtovej organizácii školský klub deti centrum voľného času rozpočtovej organizácii centrum voľného času vzdelávanie šport podpora športových klubov a organizácií konkurzy a súťaže jednotlivcovi podpora športových klubov a organizácií šport kultúra mestská knižnica tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity príspevok do doplnkových dôchodkových poisťovní energie poštové služby a telekomunikačné služby všeobecný materiál knihy časopisy noviny učebnice učebné pomôcky konkurzy a súťaže prídel do sociálneho fondu mestská knižnica mestské kultúrne akcie jarmok reprezentačné mestské kultúrne akcie jarmok grantová podpora kultúry na úrazové poistenie energie poštové služby a telekomunikačné služby výpočtová technika všeobecný materiál pracovné odevy obuv a pracovné pomôcky špeciálnych strojov prístrojov zariadení všeobecné služby odmeny zamestnancov mimopracovného pomeru neziskovej organizácii poskytujúcej všeobecne grantová podpora kultúry kultúra prostredie pre život údržba verejnej zelene príspevkovej organizácii údržba verejnej zelene miestne komunikácie príspevkovej organizácii miestne komunikácie zber a separovanie tko príspevkovej organizácii zber a separovanie tko zber a odvoz tko dopravných prostriedkov strana z príspevkovej organizácii zber a odvoz tko športoviska v meste príspevkovej organizácii športoviska v meste manažment ochrany žp všeobecný materiál manažment ochrany žp prostredie pre život bývanie energie vodné stočné poštové služby a telekomunikačné služby budov objektov alebo ich častí všeobecné služby štúdie expertízy posudky poplatky a odvody bývanie kvalita bývania všeobecné služby špeciálne služby poplatky a odvody odmeny zamestnancov mimopracovného pomeru realizácia nových stavieb kvalita bývania bývanie sociálne služby opatrovateľská služba tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity všeobecný materiál prídel do sociálneho fondu opatrovateľská služba kluby dôchodcov dávky v hmotnej núdzi všeobecný materiál knihy časopisy noviny učebnice učebné pomôcky odmeny zamestnancov mimopracovného pomeru kluby dôchodcov dávky v hmotnej núdzi komunitná práca tarifný plat osobný plat základný plat funkčný poistné do všeobecnej zdravotnej poisťovne na nemocenské poistenie na starobné poistenie na úrazové poistenie na invalidné poistenie na poistenie v nezamestnanosti na poistenie do rezervného fondu solidarity príspevok do doplnkových dôchodkových poisťovní tuzemské poštové služby a telekomunikačné služby všeobecný materiál propagácia reklama a inzercia stravovanie prídel do sociálneho fondu odmeny zamestnancov mimopracovného pomeru komunitná práca pomoc občanom v hmotnej a sociálnej núdzi na dávku v hmotnej núdzi a príspevky k dávke pomoc občanom v hmotnej a sociálnej núdzi sociálne služby spolu strana z plnenie rozpočtu mesta žiar nad hornom k plnenie rozpočtu ako hlavného nástroja finančného riadenia mesta bolo k v rozpočtových rámcoch ktoré boli určené schváleným ako aj upravovaným"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "iii",
+                    "zasadnutie fóra pre výmenu informácií o najlepších dostupných technikách sa uskutoční dňa",
+                    "a bude zamerané na riešenie potrieb odborníkov z priemyslu z poľnohospodárstva ako aj z ďalších zainteresovaných strán orgánov štátnej a verejnej správy vedeckovýskumných inštitúcií a prostredia akademickej obce emisie ortuti predstavujú pre životné prostredie veľký problém v súčasnosti je ich hlavným zdrojom spaľovanie uhlia",
+                    "viac o problémoch spojených s ortuťou sa dozviete v správe európskej environmentálnej agentúry mercury in europe s environment",
+                    "národný park veľká fatra prináša možnosť sledovať živé prenosy z umelo vytvoreného jazierka ktoré slúži na bahnenie diviačej a jelenej zveri",
+                    "keďže v lízkosti lokality nie je iný vodný zdroj určita sa objavia aj medvede v jesenných mesiacoch sa už pred kamerou môžu objaviť vlci a rys",
+                    "doteraz sa pri jazierku zastavili líška jazvec kuna medveď jelenica a dravec včelár lesný",
+                    "enviroportál pokrýva viac ako tém z oblasti životného prostredia",
+                    "informácie sú prezentované v niekoľkých formátoch web stránky pdf dokumenty sady indikátorov videá atď pričom všetky informácie a dáta sú pravidelne aktualizované",
+                    "sledovanie aktualizácií je časovo náročné preto sme sa rozhodli pre novú službu prostredníctvom ktorej budete informovaný o zmenách v témach ktoré vás najviac zaujímajú",
+                    "pri registrácii zadajte do formulára vašu e mailovú adresu a heslo",
+                    "následne si zvoľte témy a územné jednotky obec okres kraj o aktualizácii ktorých chcete byť informovaný",
+                    "v prípade akýchkoľvek pripomienok nápadov atď",
+                    "nás môžete kontaktovať prostredníctvom e mailu web enviroportal sk",
+                    "dôvod ochrany najmohutnejší strom okresu galanta s mimoriadnou krajinárskou hodnotou",
+                    "významný z hľadiska aklimatizácie exotických drevín v našej oblasti má estetický a topograficko branný význam"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "v",
+                    "kole corgoň ligy sa futbalisti artmedie bratislava majstrovsky rozlúčili so svojim starým štadiónom keď zvíťazili nad spartakom trnava",
+                    "na ostatných štadiónoch vo veľkých horúčavách až mužstiev nedalo gól",
+                    "hneď po konečnom hvizde medzinárodného rozhodcu ľuboša micheľa sa na hracej ploche objavilo pódium a na dobrú náladu zneli skladby skupiny boney m",
+                    "hráči na chvíľu zišli z plochy no o chvíľu sa na ňu pri aplauze svojich skalných opäť vrátili",
+                    "generalita slovenského futbalu na čele s prezidentom slovenského futbalového zväzu františkom laurincom odovzdala novým majstrom najskôr medaily a potom zlatý pohár pre šampióna corgoň ligy",
+                    "jedinej slovenskej zástupkyni v športovej puške x na svetovom pohári v miláne daniele peškovej sa nepodarilo prebojovať medzi finálovú osmičku",
+                    "súťaž dobre rozbehla v úvodnej polohe ležmo dosiahla maximum bodov",
+                    "lenže v stoji a polohe kľačmo sa jej už tak nedarilo a resp",
+                    "znamenalo konečný súčet a až",
+                    "miesto",
+                    "v bratislave narodená v sydney sídliaca začiatkom tohto roka austráliu reprezentujúca a teraz so skratkou svk za menom účinkujúca jarmila gajdošová prehrala v utorňajšom stretnutí",
+                    "kola dvojhry žien na druhom granslamovom turnaji tenisovej sezóny roland garros v paríži dotácia eur antuka s domácou držiteľkou voľnej karty oliviou sanchezovou za minút"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "kolo v",
+                    "šariš a inter b podbrezová a košice a podbrezová b trenčín a sládkovičovo inter a sučany a vrútky preložený",
+                    "mladá speváčka mirka miškechová vydala nedávno ďalší album",
+                    "do života ho uvádzala v rodnom meste považská bystrica",
+                    "autori projektu hlava zmapovali zatiaľ výtvarných diel z rokov až",
+                    "ďalších minimálne sto na nich ešte len čaká",
+                    "weddings love story family and underwater bikini shootings insta softphoto ru xlswell balibabesphoto"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "od",
+                    "sa začína zápis prijímateľov z dane na rok do notárskeho centrálneho registra sldujte náš portál čoskoro prinesieme postupy pre všetky typy mvo ako postupovať voči novému registru mvo",
+                    "on line poradenstvo slúži na pomoc pri konzultácií otázok z oblasti neziskového sektora prostredníctvom emailu",
+                    "podľa zložitosti otázky zadania bude používateľ portálu itretisektor sk informovaný o možnosti spracovania riešenia odpovede",
+                    "poradenstvo je poskytované na základe emailového dopytu z emailového konta ktoré je registrované v našej databáze ako platiaci používateľ",
+                    "konkrétne právne problémy je možné riešiť cez individuálnu objednávku partnerskou advokátskou kanceláriou na základe zaslania vašej požiadavky na sekretariat gplegal eu poradenstvo itretisektor sk má odporúčací všeobecný charakter a nemá povahu právneho poradenstva v konkrétnych právnych veciach používateľa",
+                    "jeho rozsah bude primeraný zadanej otázke tak aby odpoveď poskytla používateľovi portálu východiská riešení pričom riešenie danej právnej veci je názorom tímu portálu",
+                    "zložitejšie právne otázky a konkrétne právne problémy s potrebou posudzovania spisovej dokumentácie je možné v prípade záujmu používateľa konzultovať a riešiť individuálnou objednávkou po dohode s partnerskou advokátskou kanceláriou"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "berem speť",
+                    "uvodzovky som prehliadol takže sa ospravedlňujem",
+                    "nesuhlasim však s tým co napísal",
+                    "je viac sposobov ako prach vyrobiť",
+                    "môj brácho sa tomuto pred dávnymi časmi venoval",
+                    "kolový mlyn teda nemal a prach s parametrami vesuvitu vyrobiť dokázal na kolene",
+                    "čo si pamätám tak na molekuly nič nemlel"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "pro ti uz ne se niu po je ho vy hlá se ní ob vi ne ný za hlá sil sťaž nosť s tým že ju od ôvod ní po do ru če ní roz hod nu tia",
+                    "naj vyš ší súd v zmys le ods",
+                    "tr",
+                    "por",
+                    "pres kú mal správ nosť všet kých vý ro kov na pad nu té ho uz ne se nia i ko na nie mu pred chá dza jú ce a zis til že sťaž nosť ob vi ne né ho je dô vod ná",
+                    "inak ako z dô vo dov a spô so bom kto rý us ta no ví zá kon",
+                    "do väz by mož no vziať iba z dô vo dov a na čas us ta no ve ný zá ko nom a na zá kla de roz hod nu tia sú du",
+                    "ústa va v čl",
+                    "za hŕňa v pod sta te všet ky prá va kto ré vy plý va jú aj z čl",
+                    "do ho vo ru",
+                    "v prí pa de oboch us ta no ve ní ide o ochra nu osob nej slo bo dy a o ur če nie jas ných li mi tov pre štát nu moc v prí pa de zá sa hu do osob nej slo bo dy fy zic kej oso by",
+                    "or gá nov čin ných v tres tnom ko na ní sú to prá ve sú dy kto ré ma jú zod po ved nosť za to či v prí pa de oso by ob vi ne nej z tres tné ho či nu bu de pro ti nej tres tné ko na nie ve de né vo väz be väz by v kon krét nom prí pa de zod po ve dať vždy to mu to vzťa hu me dzi prin cí pom a vý nim kou",
+                    "väz ba ako vý ni moč ný pros trie dok za is te nia ob vi ne né ho pre úče ly tres tné ho ko na nia mô že byť na ne ho uva le ná iba v prí pa de zis te nia sku toč nos tí us ta no ve ných zá ko nom kto ré od ôvod ňu jú ne vyh nut nosť jej pou ži tia v zá uj me včas né ho a ná le ži té ho ob jas ne nia tres tných či nov a spra vod li vé ho pos ti hu ich pá cha te ľov",
+                    "pre to že ide o do čas né ob me dzenie osob nej slo bo dy mu sí exis to vať ne vyh nut nosť uva le nia väz by a dr ža nia ob vi ne né ho v nej len pre ur či tý le gi tím ny účel a to len po ur či tý čas",
+                    "le ho ty väz by v príp rav nom ko na ní a väz ba v ko na ní pred sú dom mô že tr vať len ne vyh nut ný ne po chyb ne potvr dzu je že ak bol v jed nej tres tnej ve ci z väz by pre pus te ný ih neď bol vza tý do väz by vždy v bez pros tred nej ča so vej nad väz nos ti po skon če ní pred chá dza jú cich tres tných aby v prí pa de neod sú de nia v jed nej ve ci mo hol byť zob ra tý ih neď do väz by v dru hej ve ci",
+                    "pred sta vu je vý raz ný zá sah do osob nej slo bo dy jed not liv ca pre to je pri ňom nut né pos tu po vať v zá sa de ne po ru ši teľ ných ob las tí súk ro mia a ľud skej dôs toj nos ti jed not liv ca",
+                    "pod mien kou vo via ce rých ko na niach",
+                    "tá to sku toč nosť spô so bi la že ob vi ne ný je vo väz be vo via ce rých sú bež ne či nás led ne ve de ných tres tných ve ciach už viac ako me sia cov",
+                    "us ta no ve nie sú op ráv ne né dr žať ob vi ne né ho vo väz be pre kaž dý z tres tných či nov z kto rých je se pa rát ne v sú vis los ti s jed ným tres tným ko na ním vza tý do väz by až po maximál nu do bu ur če nú pod ľa ak cep to vať",
+                    "po byt ob vi ne né ho v cu dzi ne nie je mož né hod no tiť ako útek a skrý va nie sa pred na zá kla de vy jad re né ho naj vyš ší súd bol po vin ný na pad nu té uz ne se nie zru šiť v ce lom"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "rok",
+                    "krymská vojna zúrila už tretí rok no nič nenasvedčovalo že rusi skoro rok uväznení v sevastopole strácajú obranyschopnosť",
+                    "odolali štyrom veľkým bombardovaniam a začali plánovať ďalšiu ofenzívu",
+                    "nikto nevedel že týmto útokom si zabili príslovečný posledný klinec do rakvy celý článok zubárske kreslo je pre mnohých ľudí zhmotnením ich najhorších nočných môr",
+                    "nevábny zvuk vŕtačky a predstava od krvi zašpineného sadistu spôsobuje traumy napriek faktu že z hľadiska starostlivosti o ľudský chrup a miery bolesti ktorú musí pacient podstúpiť žijeme zatiaľ v najlepšej ére dejín",
+                    "celý článok bitka v cušimskom prielive v máji dala definitívnu bodku za rusko japonskou vojnou",
+                    "jednou z jej obetí bol krížnik dmitrij donskoj",
+                    "jeho vrak teraz našla juhokórejská súkromná spoločnosť",
+                    "k pátraniu ich nemotivoval záujem o námornú históriu ale legenda že krížnik viezol obrovský náklad zlata",
+                    "celý článok odpoveď na túto otázku neprestáva vzrušovať a zároveň fascinovať ani rokov potom čo zmizli",
+                    "nedávne objavenie vrakov oboch stratených lodí expedície vrhá nové svetlo a prináša nové informácie o jednej z najznámejších a zároveň najtragickejších objavných plavieb v dejinách",
+                    "celý článok život na slovenskom vidieku v",
+                    "storočí nebol jednoduchý",
+                    "a to ani medzi zemepánmi",
+                    "svedčí o tom i príbeh istého imricha odlera z dechtíc ktorý sa s vidinou pekného vena oženil aby sa nakoniec so svojím svokrom musel súdiť",
+                    "celý článok"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "doplňujúce informácie týdenní pobyty v sezonu červenec srpen pronajímáme celý objekt od soboty do soboty možnost odhlášení se z rezervovaného pobytu je možno týden před nástupem dovolené jinak cena za pronájem chalupy je v plné výši jak bylo dohodnuto při rezervaci objektu",
+                    "vybavenie objektu vonkajšie záhradný nábytok terasa zastrešené posedenie záhrada vonkajší bazén detské ihrisko trávnatá plocha gril krb sklad pre bicykle lyže oplotený objekt požární zaječí mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty nádražní zaječí mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty domky zaječí mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty sadařská zaječí mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty bulhary bulhary mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty kozí hrádek mikulov mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty bulhary bulhary mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty křepice křepice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty bořetice bořetice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty komenského lednice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty u sadů hlohovec mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty vrbice vrbice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty vrbice vrbice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty čejč čejč mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty dolní bojanovice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "wolters kluwer s",
+                    "r",
+                    "o",
+                    "patrí k popredným odborným vydavateľstvám na slovensku zaoberá sa prevažne vydávaním právnickej a ekonomickej literatúry v tlačenej a elektronickej podobe"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "čaute",
+                    "volám sa martin a k lepeniu papierákov som sa vrátil po osemnástich rokoch",
+                    "niečo už zlepené mám ale ešte musím toho veeeela polepiť aby to bolo ono",
+                    "mám na mysli kvalitu",
+                    "dovolím si prezentovať sa s jedným mojím modelárskym snom",
+                    "nechcem byť len pasívny konzument a zhromažďovateľ modelov ale zúžitkovať svoje skúsenosti a zvládnuť model hlohovského zámku",
+                    "je to pre mňa výzva",
+                    "ako sa s tým pasujem vám teraz prezentujem",
+                    "po dlhšej dobe nič nerobenia som sa opäť pustil do lepenia",
+                    "keďže miesto na policiach už nie je a ani vo vitríne rozhodol som sa pre model ktorý bude na stene",
+                    "tam je ešte miesta dosť haha",
+                    "model ktorý som začal patlať je captain america busta",
+                    "model je rozložený na x a stranách a"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "pozor barte",
+                    "po vojenskej agresii britských demokratov voči argentíne prebehlo aj na falklandoch referendum",
+                    "kde vraj z anglickej menšiny žijúcej vo zvrchovanej argentínskej republiky hlasovala za pripojenie falklandských ostrovov k anglicku",
+                    "to bola práve tá ich zbraň pánov anglosionistov ktorú obrátil proti nim na kryme",
+                    "tá jediná na kryme vystrelila a potrafené anglosionistické husy zagágali a rozpŕchli sa",
+                    "môj profil ukrofil"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "vážený pane mgr",
+                    "štítnický",
+                    "obraciam sa na vás na základe informácie ktorú mi poskytla už dávno moja kolegyňa",
+                    "teraz ale prejdem k podstate",
+                    "pre moju manželku ktorá zaužívanými onko terapeutickými modalitami bojuje so zmieneným typom ochorenia mi pre začiatok sprostredkovala jedno balenie ženšenu taiwantcm liang",
+                    "dúfam že ten by snáď pozitívnym spôsobom mohol prispieť jednak k potlačeniu príznakov samotného základného onkologického ochorenia tiež k eliminácii nežiadúcich účinkov liečby operácie rádioterapia chemoterapia hormonálna terapia po rokoch opakovanej inej chemoterapie tentoraz s výraznejšími vedľajšími účinkami",
+                    "dozvedel som sa ale aj o možných priaznivých účinkoch výťažkov z huby trametes versicolor",
+                    "chcel by som vás teda naliehavo poprosiť o informáciu týkajúcu sa spomenutých účinkov a ako sa tento preparát užíva",
+                    "na dopísanie článku o trametes versicolor na vašej webovej stránke adaptogeny cz márne čakám už dlhšiu dobu",
+                    "ak môžem poprosiť uvítal by som vašu skorú odpoveď pretože vzhľadom k samotnému charakteru ochorenia sa mi situácia potenciálne vidí byť dosť hrozivou stále však verím dúfam v možný priaznivý zvrat v priebehu prebiehajúcej onko liečby",
+                    "za pochopenie a skorú odpoveď vám vopred ďakujem a zostávam s pozdravom mudr",
+                    "martin m",
+                    "slovensko som rád že sa konečne dostávam k vášmu listu chcel by som najprv vyjadriť svoju mimoriadnu radosť nad tým že mám príležitosť komunikovať s lekárom vášho razenia",
+                    "sám som si ako špecializáciu vybral neurobiológie a ak by som bol poslúchol svoju matku ktorá si priala aby som šiel študovať medicínu asi by som bol tiež inklinoval k neurochirurgii",
+                    "komunikáciu s odborníkom ako vy oceňujem hlavne preto že vám nemusím vysvetľovať tisíc vecí o nádoroch a ich priebehu prognóze imunite farmaceutické praxi atď",
+                    "v tomto smere by ste naopak iste mohol vysvetliť veľa vy mne čím vás ale v tomto okamihu rozhodne nemôžem zaťažovať",
+                    "ako biológ vám môžem ohľadom ženšenu na potvrdiť že tu v žiadnom prípade nejde o niečo čo by bolo alternatívne v zmysle non lege artis",
+                    "ženšen je najsilnejším prostriedkom k regenerácii imunitného systému po ožiarení alebo podobnom poškodení jedy cytostatiká akým súčasná veda disponuje",
+                    "aj keď sa to dnes veľmi nezdôrazňuje už v",
+                    "rokoch to o ženšenu konštatoval japonský imunológ a špecialista na radiáciu morio yonezawa",
+                    "jeho profil možno nájsť v japonskej databáze read citovať v tejto súvislosti možno jeho publikácia yonezawa rri yonezawa rri yonezawa rri",
+                    "a od tej doby sa nám žiadna nová scifi tabletka proti rádioaktivite neobjavila",
+                    "väčšie množstvo referencií je možné nájsť v článku účinok ženšenu proti radiačnej záťažou ktorý postupne dokončujem",
+                    "pokiaľ ide o priame protirakovinové účinky ženšenu tam je situácia vo výskume o niečo komplikovanejšie",
+                    "ako iste viete výskum rakoviny je mimoriadne populárny pretože celý náš západný systém scientometrie ktorý bohužiaľ slepo preberajú aj na východe je nastavený tak že minoritné témy zanedbáva a populárne témy robí ešte populárnejšími",
+                    "vôbec najmenší impakt faktory má tá veda ktorá je najzložitejšia matematika",
+                    "takže z tej spústy publikácií o účinkoch ženšenu proti rakovine má povedal by som asi tak tretina alebo štvrtina svoje reálne opodstatnenie a zvyšok boli získané z núdze niekto rýchlo potreboval publikáciu do časopisu s vysokým impakt faktorom publikoval predtým niečo o ženšenu a tak siahol po kombinácii ženšenu a rakoviny",
+                    "suma sumárum ženšen u niektorých onkologických indikácií bude asi aj priamo prospešný avšak v porovnaní s jeho inými účinkami je táto jeho indikácia relatívne málo spoľahlivá",
+                    "s nádory je to vždy ruleta ale po pamäti viem že leskokôrka pomerne dobrým spôsobom zlepšuje prognózu u najrôznejších onkologických diagnóz",
+                    "leskokôrka má vôbec v tčm kráľovskú povesť huba nesmrteľných atď ktorá je do určitej miery ešte lepšia ako povesť ženšenu",
+                    "táto dobrá povesť je vodítkom i pre nás dnes sa už vie že tčm nebola a nie je v princípe nevedecká iba kladie podstatne väčší dôraz na generačnú prenos poznatkov v nezmenenej forme a k internému zápisu informácií používa trochu inú latinu taoistické terminológii",
+                    "bohužiaľ naše spolupracovníčka ktorá sa zaoberala mechanizmami účinku lesklokorvky si vzala voľno na dobu neurčitú takže celé téma teraz čaká na mňa",
+                    "o lesklokorce je inak na medlajne cez publikácií ktorých abstrakty si môžu prečítať všetci au niektorých sú verejne prístupné aj ich plné znenie",
+                    "pokiaľ ide o hubu trametes versicolor tak ak by ste si kontroloval čo je o nej publikované treba použiť staršie synonymum coriolus versicolor",
+                    "vo výskume tejto huby došlo k zaujímavému javu že meno trametes používajú väčšinou biologické publikácie o živote a ekológii tejto huby zatiaľ čo vo výskume ich liečivých účinkov je zaužívané staršie meno coriolus",
+                    "pod ním k dnešnému dňu možno na medlajne nájsť publikácií z ktorých by sa zdalo že protirakovinové účinky tejto huby nie sú poverou",
+                    "rovnako ako u lesklokorka detaily pôsobenia trametes resp",
+                    "trúdnikovec pestré ako nám túto hubu pokrstili českí mykológovia som tiež ešte nenastudoval",
+                    "inak o zázračné historky o vyliečení rakoviny u trametes nie je núdza",
+                    "ale ak aj týmto jednotlivým prípadom nebudeme venovať prílišnú pozornosť tak pre mňa je napríklad podstatný fakt že trametes je v protirakovinový indikáciách veľmi populárny v japonsku",
+                    "pod vplyvom vášho listu sa budem snažiť maximálne urýchliť revíziu textov o ganoderme a trametes aby dávali čitateľom aspoň túto základnú predstavu ktorú sa teraz snažím odkomunikovať vám",
+                    "ak by sa mi to včas nepodarilo bude čoskoro možné si o účinkoch týchto húb prečítať v najnovšej knihe huby a ich liečivé účinky od žijúcej legendy tropické botaniky prof",
+                    "pavla valíčka",
+                    "v prípade boja s rakovinou treba užívať lesklokôrovka aj trúdnikovec v patričnom množstve",
+                    "tento typ prírodných liečiv sa dosť často upravuje na práškový koncentrát forte v ktorom gram prášku obsahuje extrahované účinné látky zodpovedajúce niekoľkých gramom pomletej huby",
+                    "ako práškové vehikulum koncentrátu sa používa väčšinou mletá dospelá plodnice daného druhu huby",
+                    "koncentrát umožňuje užívanie väčších dávok a spoľahlivejšie vstrebávanie účinných látok",
+                    "v popredí výskumu a spracovanie liečivých húb stoja momentálne krajiny východnej ázie a zvlášť taiwan kde bol nedávno dokončený projekt sekvencovania a anotácie genómu lesklokorka lesklé",
+                    "na záver si neodpustím poznámku k problému ktorý dnes dostupnosť neškodných a pritom účinných prírodných liečiv ohrozuje najviac budovanie byrokratických bariér ktoré sa z eú cez wto rozťahujú do celého sveta",
+                    "konkrétne trúdnikovec pestrá trametes versicolor sa podľa nových smerníc eú automaticky dostala do kategórie potravín nového typu novel food čiže jej predaj je zakázaný ak sa niekto neodhodlá k tomu že sa pustí do niekoľkoročného byrokratického procesu získavania zvláštnych povolení od inštitúcií eú",
+                    "to v dohľadnej dobe prakticky znemožňuje túto hubu v eu legálne predávať v kategórii potravín",
+                    "predaju tejto huby v kategórii liekov zase v praxi zabraňujú vysoké fixné poplatky a liekové registračné procedúry pre byliny úplne nevhodné",
+                    "inštitucionalizácie prírodných zdrojov zákazy konkrétnych bylín plošné zákazy všetkého čo ide označiť nálepkou novel food napriek tisícročným skúsenostiam zákazy uvádzanie informácií o liečivosti liečivých rastlín atď",
+                    "sa prezentujú pod zásterkou skvalitňovania a zodborňování fytoterapie ale pri čítaní týchto zákonov je až príliš patrný ich skutočný cieľ obmedziť slobodu lekárov i laikov rozhodovať o terapii a preniesť ju na nadštátnej orgány konajúce na objednávku farmaceutických kartelov",
+                    "tento proces bude mať veľmi neblahý vplyv na úroveň zdravia európanov aj ekonomiku európy",
+                    "o tejto súčasnej téme viac na nedejmesiprirodu cz"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "-",
+                "Content": []
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "volos",
+                    "septembra sita slovenské reprezentantky vo vodnom póle neuspeli ani vo svojom druhom vystúpení na majstrovstvách sveta hráčok do rokov v gréckom volose v pondelok ráno podľahli rovesníčkam zo srbska",
+                    "v nedeľu mladé slovenky nestačili na kanaďanky",
+                    "v utorok o h selč nastúpia zverenky trénerského tandemu ján baranovič cinzia ragusová proti taliankam"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "albi s r o",
+                    "ponúkame na objednávku zaslanie pohľadníc do obálok vlastnej výroby s vpísanými textami aj bez nich"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "buďte v obraze",
+                    "pozrite sa aké plavky hýbu svetom",
+                    "máme pre vás portál ktorý sa zaoberá plavkami od a po z",
+                    "zháňate inšpiráciu pre kúpu alebo sa len chcete pokochať",
+                    "u nás sa vám splní oboje",
+                    "užitočné informácie o parfémoch",
+                    "na našom webe nájdete množstvo informácií a tipov ako vybrať a kúpiť parfum nielen pre seba ale aj pre svojich blízkych",
+                    "dozviete sa tu tiež o delení parfémov a ich zloženie"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "parisax palette maquillage colors",
+                    "nádherný vankúšik od značky albi ideálny spoločník na dlhé cesty oceníte podperu hlavy aj krčnej chrbtice",
+                    "zistiť viac albi dizajnový guľatý vankúš meloun priemer vankúša cm výplň polystyrénové mikrogranulát okrúhly relaxačné vankúš od značky albi vykonaný",
+                    "zistiť viac albi dizajnový relaxačné vankúšik s ružovými kvetmi",
+                    "materiál nylon spandex výplň polystyrén mikrogranulát",
+                    "štýlový relaxačné vankúšik od albi z dizajnovej kolekcie o",
+                    "zistiť viac"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "ve ro services s",
+                    "r",
+                    "o dolné srnie ktorá je zapísaná v obchodnom registri okresného súdu trenčín oddiel sro vložka číslo r ičo dič tel",
+                    "e mail granulky granulky sk ďalej len prevádzkovateľ",
+                    "udelením súhlasu so spracúvaním oú na portáli www granulky sk poskytujete súhlas vážny a slobodne daný konkrétny informovaný a jednoznačný prejav vôle dotknutej osoby kupujúceho vo forme jednoznačne potvrdzujúceho úkonu v zmysle nariadenia európskeho parlamentu a rady eú z",
+                    "apríla o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov a tiež podľa ustanovenia zákona č",
+                    "z",
+                    "z z",
+                    "novembra o ochrane osobných údajov a o zmene a doplnení niektorých zákonov v platnom znení prevádzkovateľovi ďalej len gdpr a zákon",
+                    "e shop k uzavretiu a plneniu kúpnej zmluvy spracovaniu platby dodaniu produktu prípadne výkonu ostatných súvisiacich činností ako napríklad reklamačné a iné povinnosti súvisiace s právnymi predpismi v oblasti ochrany spotrebiteľa uzatvorenej prostredníctvom www granulky sk medzi prevádzkovateľom a kupujúcim",
+                    "pre vybavenie objednávky ste nám poskytli údaje meno priezvisko adresu e mail telefónne číslo a vaše platobné údaje",
+                    "e mail a tel",
+                    "kontakt slúžia aj ako komunikačný prostriedok",
+                    "osobné údaje spracúvame na právnom základe čl",
+                    "b gdpr a zákona spracúvanie osobných údajov je nevyhnutné na plnenie zmluvy ktorej zmluvnou stranou je dotknutá osoba kupujúci alebo na vykonanie opatrenia pred uzatvorením zmluvy na základe žiadosti dotknutej osoby kupujúceho bod",
+                    "t",
+                    "j",
+                    "ide o zmluvnú požiadavku",
+                    "kupujúci má možnosť sa na stránke www granulky sk registrovať",
+                    "kupujúcemu je umožnené nakupovať aj bez registrácie",
+                    "svoje konto si chránite heslom",
+                    "prihlásením do svojho konta získate informácie o svojich objednávkach môžete si upravovať svoje oú",
+                    "prosím chráňte svoje heslo prevádzkovateľ nezodpovedá za zneužitie hesla",
+                    "založením konta na stránke www granulky sk súhlasíte že oú vo vašom konte bude vyhodnocované a zhromažďované na účely využitia služieb",
+                    "založením tohto konta nám tiež udeľujete súhlas na vyhodnocovanie a vášho nákupného správania sa to znamená aké produkty ste si kúpili ktoré produkty ste si zobrazili",
+                    "ak ste sa registrovali súhlasíte že vaše používateľské správanie na stránke www granulky sk bude priradené vášmu zákazníckemu kontu aby sme vám mohli poskytnúť tento personalizovaný obsah napr",
+                    "špeciálne akcie a informácie",
+                    "ak ste si to však rozmysleli a nechcete byť naďalej registrovaný môžete registráciu vo svojom konte vymazať",
+                    "nakupovať na www granulky sk môžete kedykoľvek aj ako neregistrovaný kupujúci teda hosť",
+                    "vaše osobné údaje môžu byť poskytnuté tretím stranám",
+                    "počas spracovania objednávky a plnenia kúpnej zmluvy sú údaje poskytnuté aj tretím stranám ako dopravcom kuriérom bankám a podobne",
+                    "oú kupujúceho sú spracovávane len za účelom plnenia zmluvy a na nevyhnutný čas bližšie uvedené v ods",
+                    "doba spracúvania",
+                    "prevádzkovateľ nezamýšľa prenos oú do tretej krajiny alebo medzinárodnej organizácie vrátane identifikácie krajiny alebo medzinárodnej organizácie",
+                    "prevádzkovateľ spracúva oú v listinnej a v elektronickej podobe",
+                    "prevádzkovateľ nevyužíva automatizované individuálne rozhodovanie vrátane profilovania",
+                    "ip adresa je osobným údajom ak ju spracúva poskytovateľ internetového pripojenia spoločne s inou identifikáciou meno email statické ip adresy využívané fyzickými osobami jednotlivcami je potrebné považovať za osobné údaje v prípade ak ste i registrovaný na našej stránke www granulky sk prístup k vášmu kontu máte iba vy preto dbajte aby ste s týmito údajmi nakladali dôverne",
+                    "prevádzkovateľ nezodpovedá za neoprávnené nakladanie alebo zneužitie hesla",
+                    "kupujúci má právo v zmysle gdpr na i právo na opravu ii právo na výmaz iii právo na prenosnosť údajov iv právo namietať v právo na odvolanie súhlasu vi právo na prístup k informáciám",
+                    "dotknutá osoba odvolá súhlas na spracovanie oú aspoň na konkrétny účel alebo súhlas je neplatný ak jeho poskytnutie vylučuje osobitný predpis sa oú spracúvajú na základe súhlasu dotknutej osoby na základe zmluvy a na základe súhlasu dotknutej osoby ktorý je neplatný ak jeho poskytnutie vylučuje osobitný predpis prevádzkovateľ je povinný poskytnúť na základe tejto žiadosť informácie do dní od doručenia tejto žiadosti",
+                    "túto lehotu môže prevádzkovateľ predĺžiť o ďalších dní o odklade vás budeme informovať",
+                    "vzor návrhu bude zverejnený na webovom sídle úradu na ochranu osobných údajov hraničná bratislava",
+                    "úrad posúdi podnet do dní rozhodne do dní alebo lehotu môže primerane predĺžiť",
+                    "tieto informácie nadobúdajú platnosť a účinnosť dňom",
+                    "prevádzkovateľ si vyhradzuje právo tieto podmienky zmeniť v prípade zmeny spracúvania oú v spoločnosti a v prípade legislatívnej zmeny"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "k výstavnému projektu xix",
+                    "umenie",
+                    "storočia na východnom slovensku sme pre vás pripravili bohatý sprievodný program v podobe komentovaných prehliadok prednášok a workshopov",
+                    "program si môžete stiahnuť vo forme pdf alebo ho nájdete vytlačený v priestoroch východoslovenskej galérie"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "výsledky vybraných disciplín na víkendovom",
+                    "ročníku veľkej ceny komárna v rýchlostnej kanoistike na ktorej sa zúčastnilo pretekárov z klubov slovenska maďarska česka a slovinska"
+                ]
+            }
+        ]
+    }
+}

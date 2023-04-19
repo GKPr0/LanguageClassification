@@ -1,0 +1,227 @@
+{
+    "Source": {
+        "Root": "TestData",
+        "Languages": [
+            "CS_no",
+            "SK_no"
+        ],
+        "Models": {
+            "CS": "Models/CS/cs_3_model.pkl",
+            "SK": "Models/SK/sk_3_model.pkl"
+        }
+    },
+    "Results": {
+        "Total": 2048,
+        "Correct": 2021,
+        "Accuracy": 98.681640625,
+        "FaultyTests": [
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "https static depositphotos com thumbs image api thumb jpg kovov zv t ovac sklo",
+                    "hled n koncept kovov zv t ovac sklo",
+                    "hled n koncept rf borzaya x"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "ereska net roztrou en skler za novinky a diskuse o v voji nov ch l k a l ebn ch metod",
+                    "zobrazit t ma pubmed dimethylfumar t a nrf"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "bojovn bil andeli dostali v lu enci g lov naklada ku",
+                    "bojovn bil andeli dostali v lu enci g lov naklada ku"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "space shuttle bol americk pilotovan kozmick raketopl n pou van na lety do vesm ru vl dnou organiz ciou nasa",
+                    "mal sa sta jednou zo s ast projektovan ho komplexn ho kozmick ho dopravn ho syst mu sts space transportation system ktor v ak nebol realizovan"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "reklama na kor bezpe nosti strategick objekty chr nime m lo"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "vodn str nka rozkladacie postele s pr stelkou hobby p rozkladacia poste pre deti oran ov x"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "nosen zimn budna ripzone",
+                    "vhodn na ly ovanie snowboard",
+                    "vn tri fleece pod vka ve mi pr jemn a tepl"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "ta ky iarov ch k dov ru n scannery detektory kovov elektrocentr ly laborat rne pr stroje meracie pr stroje regula n technika meteostanice teplomery mikroskopy alekoh ady optick pr stroje n hradn diely ostatn pr stroje pokladne r diotechnika sol rna technika pion na technika v hy vypa ovacie pece zabezpe ovacia technika zdravotn cke pr stroje"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "balk n dl den mramorov dl ka klimatiz cia k pe a minibar satelitn tv sprcha telev zor toaleta tv s lcd plazmou s plochou obrazovkou ventil tor v h ad balk n dl den mramorov dl ka klimatiz cia k pe a minibar sprcha telev zor toaleta ventil tor v h ad"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "stielka na reflexn z ny na jemn tlakov mas vybran ch oblast reflexn ch z n pocit zdravia a pohody"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "igrl k v ak ty mi rob medzin rodn probl my dosad m svojich cm kg do http www spocitej cz ss index php vyjde mi bmi",
+                    "a v aka som v kateg rii nadv ha o m m s t m robi v ak ani spa nebudem"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "ultrazvuk teraz za ve mi v hodn cenu eur s dph v tane line rnej a phase array sondy voz ka a termotla iarne"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "palau german channel ponor z lode vidite nos m teplota c manty raloky kor lov z hrady"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "tu ste vod sie ov program portov siete beach fun siete beach volejbal tr ningov siete ve kos kurtu m x m"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "dopl uj ce inform cie t denn pobyty v sezonu ervenec srpen pronaj m me cel objekt od soboty do soboty mo nost odhl en se z rezervovan ho pobytu je mo no t den p ed n stupem dovolen jinak cena za pron jem chalupy je v pln v i jak bylo dohodnuto p i rezervaci objektu",
+                    "vybavenie objektu vonkaj ie z hradn n bytok terasa zastre en posedenie z hrada vonkaj baz n detsk ihrisko tr vnat plocha gril krb sklad pre bicykle ly e oploten objekt po rn zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty n dra n zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty domky zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty sada sk zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty bulhary bulhary mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty koz hr dek mikulov mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty bulhary bulhary mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty k epice k epice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty bo etice bo etice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty komensk ho lednice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty u sad hlohovec mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty vrbice vrbice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty vrbice vrbice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty ej ej mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty doln bojanovice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "s kromn centrum peci lno pedagogick ho poradenstva snina fotoalbum zahrani n n v tevy n v teva z n rska n v teva z n rska jpg"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "zoradi pod a ceny od najni ejceny od najvy ejn zvu produktu od a po zn zvu produktu od z po askladomk du vzostupnek du zostupne"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "jeruzalem",
+                    "apr la webnoviny sk oscarov here ka natalie portman si v j ni neprevezme prest nu izraelsk genesis prize zn mu tie ako idovsk nobelova cenu",
+                    "copyright o dnes kontakt info codnes sk syst m mormys prev dzkuje webdesign webkomplex sk"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "a n k a n ka netto bavorsko nemecko h ad me a n ka ku netto dn v t dni do hotela v bavorsku n stup",
+                    "mo nos p"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "blahoslaven argent nsky prezident franc zsko kriv nov komunita pet cia brno in spr vy v veska tags blahoslaven argent nsky prezident franc zsko kriv nov komunita pet cia brno"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "uter k a osu ka raiz m nad chan vzh ad ve mi hebk na dotyk s vysokou savos ou",
+                    "vy van bord ra"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "triedi pod a v etky kateg rie hern hern s mikrof nom tovar za na na",
+                    "a b c d e f g h i j k l m n o p q r s t u v w x y z podlo ka pod my redragon archelon m podlo ka je vyroben z hodv bu a pr rodn ho kau uku ktor zaru uje hladk povrch podlo ky a",
+                    "podlo ka pod my redragon kunlun l podlo ka je vyroben z penovej pr rodnej gumy a pr rodn ho kau uku ktor zaru uje hladk povrch"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "velk losiny mapa vzdialenos km od chalupa na vleku t dr kova lhota jesen ky odstr ni objektm j v ber zobrazi kontakty doln lipka kr l ky mapa vzdialenos km od chalupa na vleku t dr kova lhota jesen ky odstr ni objektm j v ber zobrazi kontakty v prachtice v prachtice mapa vzdialenos km od chalupa na vleku t dr kova lhota jesen ky odstr ni objektm j v ber zobrazi kontakty"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "s kromn centrum peci lno pedagogick ho poradenstva snina fotoalbum zahrani n n v tevy n v teva z n rska n v teva z n rska jpg"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "ryolit sope n vyvrel hornina m porfyrick trukt ru a ve mi vysok obsahom sio",
+                    "miner lne zlo enie tvoria kreme alkalick ivce a plagioklasy",
+                    "akces riami s biotit a pyrox ny",
+                    "v p roch b va asto tridymit a cristobalit"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "vodprofesion lna fotografia architekt ryv tvarn fotografie na posuvn dvereve koform tov v tvarn fotografiarealiz cie v interi rochn vrhy a vizualiz cieartfoliodetsk portr t a rodinn fotokol o autorkekontaktpr spevky"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "t to abl na sprievodn ho listu ivotopisu so zjednodu en m ovl dan m dop a n trukturovan ivotopis a d va mu profesion lny vzh ad"
+                ]
+            }
+        ]
+    }
+}

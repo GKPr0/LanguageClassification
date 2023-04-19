@@ -1,0 +1,109 @@
+{
+    "Source": {
+        "Root": "TestData",
+        "Languages": [
+            "CS_no",
+            "SK_no"
+        ],
+        "Models": {
+            "CS": "Models/CS/cs_3_no_diac_model.pkl",
+            "SK": "Models/SK/sk_3_no_diac_model.pkl"
+        }
+    },
+    "Results": {
+        "Total": 2048,
+        "Correct": 2036,
+        "Accuracy": 99.4140625,
+        "FaultyTests": [
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "ereska net roztrou en skler za novinky a diskuse o v voji nov ch l k a l ebn ch metod",
+                    "zobrazit t ma pubmed dimethylfumar t a nrf"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "kosti a rohov kosti neopracovan zbaven tuku jednodu e opracovan av ak nep i znut do tvaru upraven kyselinou nebo zbaven klihu prach a odpad z t chto produkt e tina"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "nosen zimn budna ripzone",
+                    "vhodn na ly ovanie snowboard",
+                    "vn tri fleece pod vka ve mi pr jemn a tepl"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "balk n dl den mramorov dl ka klimatiz cia k pe a minibar satelitn tv sprcha telev zor toaleta tv s lcd plazmou s plochou obrazovkou ventil tor v h ad balk n dl den mramorov dl ka klimatiz cia k pe a minibar sprcha telev zor toaleta ventil tor v h ad"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "palau german channel ponor z lode vidite nos m teplota c manty raloky kor lov z hrady"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "tu ste vod sie ov program portov siete beach fun siete beach volejbal tr ningov siete ve kos kurtu m x m"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "dopl uj ce inform cie t denn pobyty v sezonu ervenec srpen pronaj m me cel objekt od soboty do soboty mo nost odhl en se z rezervovan ho pobytu je mo no t den p ed n stupem dovolen jinak cena za pron jem chalupy je v pln v i jak bylo dohodnuto p i rezervaci objektu",
+                    "vybavenie objektu vonkaj ie z hradn n bytok terasa zastre en posedenie z hrada vonkaj baz n detsk ihrisko tr vnat plocha gril krb sklad pre bicykle ly e oploten objekt po rn zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty n dra n zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty domky zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty sada sk zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty bulhary bulhary mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty koz hr dek mikulov mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty bulhary bulhary mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty k epice k epice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty bo etice bo etice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty komensk ho lednice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty u sad hlohovec mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty vrbice vrbice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty vrbice vrbice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty ej ej mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty doln bojanovice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "s kromn centrum peci lno pedagogick ho poradenstva snina fotoalbum zahrani n n v tevy n v teva z n rska n v teva z n rska jpg"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "zoradi pod a ceny od najni ejceny od najvy ejn zvu produktu od a po zn zvu produktu od z po askladomk du vzostupnek du zostupne"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "a n k a n ka netto bavorsko nemecko h ad me a n ka ku netto dn v t dni do hotela v bavorsku n stup",
+                    "mo nos p"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "velk losiny mapa vzdialenos km od chalupa na vleku t dr kova lhota jesen ky odstr ni objektm j v ber zobrazi kontakty doln lipka kr l ky mapa vzdialenos km od chalupa na vleku t dr kova lhota jesen ky odstr ni objektm j v ber zobrazi kontakty v prachtice v prachtice mapa vzdialenos km od chalupa na vleku t dr kova lhota jesen ky odstr ni objektm j v ber zobrazi kontakty"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "s kromn centrum peci lno pedagogick ho poradenstva snina fotoalbum zahrani n n v tevy n v teva z n rska n v teva z n rska jpg"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "Source": {
+        "Root": "TestData",
+        "Languages": [
+            "CS",
+            "SK"
+        ],
+        "Models": {
+            "CS": "Models/CS/cs_3_no_diac_model.pkl",
+            "SK": "Models/SK/sk_3_no_diac_model.pkl"
+        }
+    },
+    "Results": {
+        "Total": 2048,
+        "Correct": 2022,
+        "Accuracy": 98.73046875,
+        "FaultyTests": [
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "římský patricij o jehož působení na dvoře císaře nerona a stoické smrti se zmiňuje římský historik tacitus",
+                    "často bývá označován za autora satirikonu"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "https static depositphotos com thumbs image api thumb jpg kovové zvětšovací sklo",
+                    "hledání koncept kovové zvětšovací sklo",
+                    "hledání koncept rf borzaya x"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "ereska net roztroušená skleróza novinky a diskuse o vývoji nových léků a léčebných metod",
+                    "zobrazit téma pubmed dimethylfumarát a nrf"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "jednoduché video z fotek o roční cestě našeho mužstva mladších žáků k letošním úspěchům",
+                    "tj sokol hořiněves"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "něco o lásce potřebuje každý a toto je spíše pohádka a na pohádkový web",
+                    "naše sny budiž tedy pohádkové lásku možná nepotkáme nevidíme ji ale je tu vím to",
+                    "a život ten plyne s časem dál"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "na úřad přes internet veřejní správa aktuálně kontakty a spojení na orgány zákony on line noviny",
+                    "království mluveného slova česko slovenské fórum mluveného slova vám přináší tisíce nahrávek všech žánrů"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "rodinka na kousky je komedie o velké šťastné rodině a veselých nepříjemných a hlavně nezapomenutelných okamžicích jejího života jak je vidí jednotliví členové rodiny"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "tři výkonné amg modely v jednom videu",
+                    "ochutnejte trojici benzinových osmiválců v modelech gt c s a g",
+                    "omluva za zhoršenou kvalitu zvuku a za"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "výdejní místo po dohodě a kancelář najdete na adrese w media s r o tovární chrudim",
+                    "tel"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "nejbezpečnější a nejúspornější elektrické topení evo s akumulací do vaší garáže s ti letou zárukou"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "čeština křižovatková výhybka s vnějšími jazyky typ baeseler na západním zhlaví hlavního nádraží v heidelbergu"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "ipswich ip aj s fotkami nejlepších ubytování v destinaci ipswich ip aj rekreační pronájmy rekreační domy na airbnb ipswich ip aj anglie velká británie san giovanni gemini s fotkami nejlepších ubytování v destinaci san giovanni gemini rekreační pronájmy rekreační domy na airbnb san giovanni gemini sicilia itálie"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "vanička angela je vhodná pro sprchové kouty srv s srv s asrv asrv a sprchovací prostory řešené sprchovými dveřmi asdp sdz sdop blrv pdop nrkrv v rozměru nebo cm"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "informační portál europoslankyně mudr",
+                    "zuzany roithové na ochranu dětí před nebezpečnými výrobky a službami"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "hledaný výraz kategorie vše přírodní produkty z austrálie dárkové předměty výrobci vše carlmark esi natural pharmaceuticals australia pty ltd natures naturals naturpower olympian labs"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "bojovní bilí andeli dostali v lučenci gólovú nakladačku",
+                    "bojovní bilí andeli dostali v lučenci gólovú nakladačku"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "já tedy sergia zrovna moc nemusím ale je fakt že jezdí dobře a jednou třeba ten titul vyhrát může"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "kosti a rohové kosti neopracované zbavené tuku jednoduše opracované avšak nepřiříznuté do tvaru upravené kyselinou nebo zbavené klihu prach a odpad z těchto produktů čeština"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "nosená zimná budna ripzone",
+                    "vhodná na lyžovanie snowboard",
+                    "vnútri fleece podšívka veľmi príjemná a teplá"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "palau german channel ponor z lode viditeľnosť m teplota c manty žraloky korálové záhrady"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "tu ste úvod sieťový program športové siete beach fun siete beach volejbal tréningové siete veľkosť kurtu m x m"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "súkromné centrum špeciálno pedagogického poradenstva snina fotoalbum zahraničné návštevy návšteva z nórska návšteva z nórska jpg"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "jeruzalem",
+                    "apríla webnoviny sk oscarová herečka natalie portman si v júni neprevezme prestížnu izraelskú genesis prize známu tiež ako židovská nobelova cenu",
+                    "copyright čo dnes kontakt info codnes sk systém mormys prevádzkuje webdesign webkomplex sk"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "uterák a osuška raiz má nadýchaný vzhľad veľmi hebký na dotyk s vysokou savosťou",
+                    "vyšívaná bordúra"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "súkromné centrum špeciálno pedagogického poradenstva snina fotoalbum zahraničné návštevy návšteva z nórska návšteva z nórska jpg"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "úvodprofesionálna fotografia architektúryvýtvarné fotografie na posuvné dvereveľkoformátová výtvarná fotografiarealizácie v interiérochnávrhy a vizualizácieartfoliodetský portrét a rodinná fotokolážo autorkekontaktpríspevky"
+                ]
+            }
+        ]
+    }
+}

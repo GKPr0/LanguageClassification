@@ -1,0 +1,43 @@
+{
+    "Source": {
+        "Root": "TestData",
+        "Languages": [
+            "CS",
+            "SK"
+        ],
+        "Models": {
+            "CS": "Models/CS/cs_3_model.pkl",
+            "SK": "Models/SK/sk_3_model.pkl"
+        }
+    },
+    "Results": {
+        "Total": 2048,
+        "Correct": 2045,
+        "Accuracy": 99.853515625,
+        "FaultyTests": [
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "bojovní bilí andeli dostali v lučenci gólovú nakladačku",
+                    "bojovní bilí andeli dostali v lučenci gólovú nakladačku"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "reklama na úkor bezpečnosti strategické objekty chránime málo"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "doplňujúce informácie týdenní pobyty v sezonu červenec srpen pronajímáme celý objekt od soboty do soboty možnost odhlášení se z rezervovaného pobytu je možno týden před nástupem dovolené jinak cena za pronájem chalupy je v plné výši jak bylo dohodnuto při rezervaci objektu",
+                    "vybavenie objektu vonkajšie záhradný nábytok terasa zastrešené posedenie záhrada vonkajší bazén detské ihrisko trávnatá plocha gril krb sklad pre bicykle lyže oplotený objekt požární zaječí mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty nádražní zaječí mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty domky zaječí mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty sadařská zaječí mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty bulhary bulhary mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty kozí hrádek mikulov mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty bulhary bulhary mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty křepice křepice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty bořetice bořetice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty komenského lednice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty u sadů hlohovec mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty vrbice vrbice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty vrbice vrbice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty čejč čejč mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty dolní bojanovice mapa vzdialenosť km od penzion strachotín nové mlýny pálava odstrániť objektmôj výber zobraziť kontakty"
+                ]
+            }
+        ]
+    }
+}

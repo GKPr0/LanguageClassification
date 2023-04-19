@@ -1,0 +1,801 @@
+{
+    "Source": {
+        "Root": "TestData",
+        "Languages": [
+            "CS_no",
+            "SK_no"
+        ],
+        "Models": {
+            "Fast": "Models/3_fasttext_no_diac_model.bin"
+        }
+    },
+    "Results": {
+        "Total": 2048,
+        "Correct": 2001,
+        "Accuracy": 97.705078125,
+        "FaultyTests": [
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "obr",
+                    "hora svat kate iny na v ezu z d ln mapy z roku s a smmp inv",
+                    "geofond kutn hora ma f"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "cenov porovn va",
+                    "konvice na aj nebo konvice na k vu z mnoha e shop vyb rejte chyt e podle ceny parametr",
+                    "v nov konvice v nov konvice na aj v nov konvice na k vu v nov konvi ka v nov ajov konvice v nov ajn k v nov ajn ky v nov cena bez omezen jen slevy levn do k k k k k k a v ce jen zbo skladem novinky po izujete si novou kuchyni a chcete si vybrat tu spr vnou",
+                    "potom je dobr v d t co by m la m t ka d po dn modern kuchyn",
+                    "v l nku najdete n kolik tip a p klad pro inspiraci kter v m mohou pomoci s touto slo i",
+                    "jak je rozd l mezi oby ejn m a luxusn m bytem jeho cena m e b t a n kolikan sobn",
+                    "rozd l spo v nejen ve velikosti kvalit lokalit ale i mno stv nab dek",
+                    "zjist te m v m se vyzna uj luxusn byty a pod ve",
+                    "bydlen inspirace fotogalerie v nov konvicev nov konvice na ajv nov konvice na k vuv nov konvi kav nov ajov konvicev nov ajn kv nov ajn kyv nov"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "ty j drov procesor dual sim mali android a cena eur",
+                    "pro asus zenfone go dn probl m",
+                    "krom ji zm n n ch z le itost tento smartphone p in typick asus design mpx fotoapar t kter dopl uje led blesk autofokus a nahr v n vide standardn kvality nechyb mpx p edn kamera a gb ram gb nebo gb vnit n pam ti s mo nost p ipojen sd karty do gb a hd lcd displej",
+                    "v p pad e byste s n m jednoho dne m li probl my dejte prostor na emu servisn mu lcd displeji"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "z a",
+                    "m sto v konu pr ce moravskoslezsk kraj",
+                    "po adujeme minim ln s vzd l n stavebn ho sm ru idi sk opr vn n skupiny b aktivn idi komunika n schopnosti zku enosti s veden m kolektivu trestn bez honnost",
+                    "n pl pr ce veden a realizace stavebn zak zky dle projektov dokumentace organizace pr ce na stavb veden stavebn dokumentace komunikace s investory",
+                    "platov podm nky od k pr mie k",
+                    "zam stnaneck v hody stravenky p sp vek na penzijn pojistn slu ebn vozidlo mobiln telefon",
+                    "telefonick kontakt od pond l do p tku v ase hodin"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "roz arov n vzdor a pon en",
+                    "to v echno je sou st reakc rusk ch sportovc inovn k a politik na rozhodnut mezin rodn ho olympijsk ho v boru mov p ipustit na zimn hry v pchjong changu pod neutr ln vlajkou jen ty rusk sportovce kte nebyli zapleteni do systematick ho dopingu v zemi",
+                    "nechyb v zvy k bojkotu olympi dy st tn televizn holding vgtrk ohl sil zru en televizn ch p enos",
+                    "v zva k bojkotu zazn la z st ivana melnikova prvn ho m stop edsedy st tn dumy doln komory rusk ho parlamentu",
+                    "rozhodnut mov je podle n j nep edstaviteln tvrd a je sou st politiky tot ln ho pron sledov n rusk ch sportovc s c lem pon it rusko",
+                    "ast rusk ch sportovc v na hr ch pchjong changu pod neutr ln vlajkou je podle vlivn ho rusk ho poslance nemo n",
+                    "n co takov ho by bylo nekorektn v i sportovc m kter bez anal zy a bez d kazu vy adili nejen z her ale ze sportu v bec poznamenal melnikov",
+                    "kone n rozhodnut je podle n j na veden zem",
+                    "rozhodne li se pro ast pak bude d le it v st informa n kampa kolem her jin m zp sobem ekl",
+                    "v erusk st tn televizn a rozhlasov spole nost vgtrk v reakci na verdikt mov ozn mila e ru p enosy z olympijsk ch her",
+                    "bez rusk asti olympijsk hry v pchjong changu p en et nebudeme ozn mila tiskov slu ba holdingu",
+                    "gener ln editel jin celost tn medi ln skupiny gazprom media dmitrij erny enko novin m ekl e bez rusk asti nebudou m t ru t televizn div ci o hry z jem",
+                    "proti asti pod neutr ln vlajkou se vyslovil tren r jevgenij trefilov kter loni dovedl rusk h zenk ky ke zlat m medail m na olympijsk ch hr ch v riu",
+                    "lid vzpamatujte se",
+                    "ka d koho za enou do rohu se zm n v tygra vzk zal do lausanne kde mov v ter zasedal",
+                    "naopak hv zdn hokejista ilja koval uk vyzval k asti v ech rusk ch sportovc kte dostanou anci startovat jako neutr ln",
+                    "bylo jasn e p ijde takov rozhodnut",
+                    "ale kdy tam sportovci pojedou sjednot to zemi",
+                    "v ichni ist sportovci mus jet ekl agentu e r sport",
+                    "ilja koval uk pro sport express mus me jet na olympi du",
+                    "v ichni ist sportovci se mus z astnit",
+                    "pro n kter je to posledn ance",
+                    "l sku k vlasti m me v srdci",
+                    "nemus me nosit znak na hrudi",
+                    "a d li b h a budeme sp n samoz ejm si zazp v me hymnu",
+                    "stejn postoj zast v i estn prezident rusk ho olympijsk ho v boru leonid tjaga ov",
+                    "dovolme jet mlad m sportovc m kte nez vodili na olympi d v so i",
+                    "nechme je ist z vodit a uk zat e jsme z ruska a nejsme vyvrhelov prohl sil funkcion kter vedl n rodn olympijsk v bor v letech a",
+                    "n kter rusk sportovn svazy ozn mily e o sv asti na hr ch rozhodnou pozd ji",
+                    "zv it situaci cht j nap klad s ka i nebo krasobrusla i",
+                    "rozhodnout se mus i dvojn sobn mistryn sv ta v krasobruslen jevgenija medved vov kter by byla velkou favoritkou na zlato",
+                    "osmn ctilet krasobrusla ka dnes jako lenka rusk delegace hovo ila p i zased n v konn ho v boru",
+                    "tvrdila e by nemohla z vodit jako neutr ln sportovkyn",
+                    "jsem hrd na svou zemi je pro m est reprezentovat ji na olympijsk ch hr ch",
+                    "inspiruje m to a dod v mi to s lu p i m ch vystoupen ch citoval z jej ho vystoupen web championat com",
+                    "po vynesen verdiktu ale byla zdr enliv j",
+                    "je t se o tom bude diskutovat a na takov ot zky je brzy uvedla",
+                    "t mata pchjong chang mezin rodn olympijsk v bor mov doping st tn duma zoh hokej nhl so i gazprom ilja koval uk jevgenija medved vov lausanne rusk dopingov skand l proz padn vliv protirusk tendence",
+                    "kdo v s plat komu slou te pot co se minul t den biatlonistka gabriela",
+                    "p ed necel mi ty mi lety v so i z skala na olympijsk ch hr ch dv st bra",
+                    "v pond l v osm ve er po diskvalifikaci",
+                    "kdo re roval podvody rusk ch sportovc p i zimn ch olympijsk ch hr ch v so i",
+                    "tehdej ministr sportu vitalij",
+                    "potrestan skeletonista sergej udinov p irovnal af ru rusk ho dopingu na olympijsk ch hr ch v so i k v lce v ir ku",
+                    "o emoce p mo v d ji ti p i ly",
+                    "p esto se tafeta esk ch biatlonistek s nejv t pravd podobnost do k bronzov",
+                    "z vodn k michal lesingr a f esk ho biatlonu ji hamza st li v minul zim v ele nekompromisn ho ta en za",
+                    "video dv zlata oboj ivelnice ester ledeck z posledn ch her v pchjong changu triumfy judisty luk e"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "lond n",
+                    "hume ozn mil dnes v dolej sn movn e po sv tc ch navrhne aby sn movna toto uzav ela pon vad obiln a potravn ceny nyn takov jsou jakov byly v r",
+                    "je sn movna toho m n n",
+                    "cel text"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "motto komedie n",
+                    "v",
+                    "gogola revizor nevr brachu na zrcadlo kdy m k ivou hubu",
+                    "v m st kocourov se dozv d e p ijede kontrola",
+                    "e to nejen m stsk rada ale tak man elky jejich len",
+                    "mlad mu proj d j c jako turista m stem je omylem pova ov n za kontrolora a m st t radn se ho sna zkorumpovat",
+                    "d lo nanejv aktu ln a nad asov i v dne n dob"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "bojovn bil andeli dostali v lu enci g lov naklada ku",
+                    "bojovn bil andeli dostali v lu enci g lov naklada ku"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "a do",
+                    "ervence byla prodlou ena v pra sk galerii u betlemsk kaple v stava grafick tvorby dvou velk ch osobnost esk ho v tvarn ho um n a genera n ch vrstevn k jana zrzav ho a franti ka tich ho",
+                    "soubor grafick ch list jana zrzav ho je jedine n ji v tom e jde o t m kompletn grafick d lo od prvn ch pokus ti t n ch okolo roku v d ln josefa vach la a po varianty jeho and l z let sedmdes t ch",
+                    "r d bych ka d mu doporu il shl dnout tuto dosud nevystavenou kolekci p ev n duchovn lad n ch kreseb a pastel jana zrzav ho v p sobiv m prostoru pra sk lorety",
+                    "soubor vytvo il mistr b hem pobyt v ben tsk m kl te e kapuc n na ostrov guidecca",
+                    "n v t vn ci maj mo nost prohl dnout si tyto jedine n pr ce a do",
+                    "z kdy se kolekce vr t zp t sv m majitel m do cel kl tera v mestre",
+                    "v stava prob hla tak v roce v muzeu v severoitalsk m oderze jej m inici torem byl prof",
+                    "eugenio bucciol jen pobyl v krucemburku v roce p i p le itosti j m organizovan v stavy o eskoslovensk ch legi ch v",
+                    "sv tov v lce v it lii",
+                    "vernis e dne",
+                    "kv tna se astnila ada osobnost pra sk ho kuturn ho ivota",
+                    "o italsk ch pobytech jana zrzav ho promluvil historik um n prof",
+                    "dvo k a o aktivit ch na spole nosti a hlavn o osudech vystaven ch d l hovo ila dr",
+                    "m nsk je m la z sadn lohu p i objevu dosud esk kulturn ve ejnosti nezn m ch mistrov ch d l",
+                    "mysl m e akce o n je bl e pojedn no v vodu byla velmi zaj mav",
+                    "na e pan p edsedkyn sice nebyla p li spokojen s pon kud st sn n mi prostorami ale tak to s podobn mi kulturn mi akcemi a vernis emi v praze v t inou dopad",
+                    "na druh stran se tam se li v hradn lid s kulturn mi zajmy a ur it byli spokojeni",
+                    "r d bych jen p ipojil e k vid n byla d la mal a fotografa pana chocholy spjat ch s osobnost jz a e t den p edt m p edch zelo putov n malostransk ch ob an ve stop ch p soben jz jist dobr n pad"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "p znivci krakono ova cyklomaratonu pozor",
+                    "leto n jubilejn ji",
+                    "ro n k obl ben ho krakono ova cyklomaratonu odstartuje v nov m term nu",
+                    "z tradi n ho pr zdninov ho term nu se cyklomaraton p esouv ji na sobotu",
+                    "ervna",
+                    "t et ro n k obl ben ho kultovn ho z vodu v s bude bavit v ned li",
+                    "ledna v mal p",
+                    "historick kost mi jsou jako v dy v t ny a chyb t op t nebude o nejvymazlen j roha sk p r v sobotu",
+                    "byly odstartov ny dva v znamn cyklistick z vody clasica san sebastian v baskicku a e si cestu na cyklomaraton nach z st le v ce z vodn k po tem p es startuj c ch se krakono v cyklomaraton ur it za ad mezi nejobsazen j cyklistick z vody v leto n m roce",
+                    "a nav c n m bylo velkou ct p iv tat na startu krakono ova cyklomaratonu nej sp n j ho cyklistu paralympijsk historie ji ho je ka kter si p ijel do trutnova zaz vodit v r mci zakon en sv sp n sportovn kari ry",
+                    "jsme r di e m eme kr sy v chodn ch krkono u n s i na polsk stran uk zat dal m a dal m n v t vn k m",
+                    "pod kov n pat v em kte se na p prav a organizaci pod leli hlavn policii r m stsk policii krkono sk mu n rodn mu parku profesion ln m i dobrovoln m hasi m klubu vojensk historie trutnov zdravotn k m partnersk m m st m lubawka a kamenia gora pl a hlavn des tk m ob tav ch po adatel po cel d lce trati",
+                    "pod kov n pat v em cyklist m kte se do z vodu pustili a to e v s p ijelo takov mno stv sv d o tom e se v m krakono v cyklomaraton l b",
+                    "st ed mlad ch buk po dn ije",
+                    "slavnostn tu bylo otev eno nov par dn h i t d ti d tem",
+                    "a jak u n zev napov d d ti si h i t v n mo nick m stylu samy navrhly",
+                    "z rove s nov m h i t m obec obnovila za pomoci prost edk programu sf p pro obce le c na zem n rodn ch park cel prostor ve st edu m styse kter se tak st v kr sn m m stem pro setk v n v ech generac",
+                    "zujte boty a poj te vyzkou et jak to je kr et t eba po i k ch pilin ch bambusu k e i t eba kostk ch",
+                    "zahr t si m ete tak pi kvorky s p rodn mi kameny a pozn vat r zn druhy bylinek",
+                    "to v e d ky nov stezce na boso kter vyrostla na dvorku budovy muzea a po ty na r chorsk m n m st v acl i",
+                    "tel tato e mailov adresa je chr n na p ed spamboty",
+                    "pro jej zobrazen mus te m t povolen javascript"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "je t sch zelo aby sama posledn m derem oraz tkovala dal fedcupov titul",
+                    "je t sch zelo aby sama posledn m derem oraz tkovala dal fedcupov titul",
+                    "aby pr v jej posledn r na rozhodla",
+                    "byla by to pro pr e z plzn dokonale p il hav role",
+                    "barbora str cov ve skute nosti sledovala moment dal ho esk ho tenisov ho triumfu z l e vedle dvorce",
+                    "nejl pe p sob kosmetika kter obsahuje prav citrusov esenci ln oleje",
+                    "nama te se olejem jemn mas prokrv poko ku a zrychl pr tok krve",
+                    "m te nyn na podzim probl m r no vst t a jste pak jako mal tn",
+                    "v me jak co pou t abyste byla brzy fresh",
+                    "za n te sprchou nic tak neprobere jako voda",
+                    "kdy k n je t pou ijete sprchov gel s obsahem esenci ln ch olej z citrus",
+                    "copyv elka odvedla skv lou pr ci kter n kolikan sobn p ed ila na e o ek v n",
+                    "firem i jedinc kte tvo marketingov texty a grafiku je v na zemi jako hub po de ti",
+                    "pravdou ale z st v e ne ka d je schopen u t klientovi popt van obsah na m ru",
+                    "copyv elka se zam uje nejen na psan blogov ch l nk ale"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "strojov lak matn k strojov lak leskl k lamino matn k lamino leskl k"
+                ]
+            },
+            {
+                "Expected": "CS",
+                "Recognized": "SK",
+                "Content": [
+                    "cheyenne je b val rockov hv zda",
+                    "ve sv ch pades ti letech se st le obl k ve stylu gothic a ije v dublinu ze sv ch autorsk ch honor",
+                    "smrt jeho otce se kter m dlouh ch let nekomunikoval ho zavede zp t do new yorku",
+                    "cheyenne zji uje e jeho otec byl cel ivot posedl jednou v c vyhledat postu za poko en kter utrp l v koncentra n m t bo e v polsku",
+                    "cheyenne se rozhodne pokra ovat tam kde jeho otec skon il a vyd v se na cestu nap amerikou",
+                    "film tady to mus b t online tady to mus b t ke shlednut zdarma tady to mus b t free download film tady to mus b t ke shl dnut zdarma tady to mus b t online film tady to mus b t ke shl dnut esky film tady to mus b t online zdarma tady to mus b t ke shl dnut tady to mus b t gp tady to mus b t mp tady to mus b t torrent tady to mus b t film zdarma tady to mus b t ke sta en zdarma tady to mus b t sta en rapidshare tady to mus b t uloz to tady to mus b t ulozto tady to mus b t ke sta en hellshare tady to mus b t kinotip tady to mus b t cz dabing tady to mus b t avi tady to mus b t d tady to mus b t na dvd tady to mus b t csfd recenze tady to mus b t csfd cz tady to mus b t point imdb tady to mus b t cel film ke sta en film tady to mus b t trailer tady to mus b t download tady to mus b t soudtrack film tady to mus b t titulky tady to mus b t recenze"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "uva ujete nad letnou dovolenkou v turecku",
+                    "sprievodca letoviskami pom e s v berom"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "reklama na kor bezpe nosti strategick objekty chr nime m lo"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "bet nov tv rnice s samo o sebe studen",
+                    "studen kom n znamen tvorbu dechtu a kondenzu ktor je v kom ne ne iad ci a nebezpe n",
+                    "ka d kom n je potrebn o najsk r zahria na prev dzkov teplotu m"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "rohovka zdrav ho oka m pravideln gu ovit tvar",
+                    "pri keratokonuse doch dza k vyklenutiu rohovky a deform ci jej tvaru o m e sp sobi v razn zhor enie zraku a stratu videnia",
+                    "keratokonus je ochorenie o nej rohovky pri ktorom sa postupne sten uje rohovka a ku e ovito vykle uje",
+                    "vzh adom k tomu e zdrav rohovka udsk ho oka m pravideln gu ovit tvar ak ko vek zmena jej tvaru hr bky m za n sledok zhor en videnie",
+                    "keratokonus sa zvy ajne objavuje medzi",
+                    "a",
+                    "rokom ivota rozv ja sa ve mi pomaly",
+                    "asto a rokov",
+                    "v voj choroby je individu lny je ovplyvnen vekom pacienta m sk r ochorenie prepukne t m je jeho v voj r chlej",
+                    "postihuje obe o i pri om postihnutie jedn ho a druh ho oka sa l i",
+                    "v s asnosti toto ochorenie nie je mo n plne vylie i ale modern lie ebn met dy ktor na na ej klinike pou vame umo uje jeho rozvoj pozastavi a stabilizova",
+                    "keratokonus je ochorenie ktor ho pr iny nie s plne objasnen",
+                    "k rozvoju choroby prispievaj genetick vplyvy astej ie sa vyskytuje v s vislosti s celkov mi alergick mi ochoreniami jeho v voj m e ur chli mechanick dr denie oka napr",
+                    "ast chanie oka",
+                    "keratokonus sa prejavuje r chlym zhor ovan m zraku",
+                    "v inou sa postupne zvy uje kr tkozrakos objavuje sa nepravideln astigmatizmus doch dza k duplicite a deform ci pozorovan ch predmetov",
+                    "vzh adom k tomu e sa spo iatku prejavuje len ako kr tkozrakos ktor mo no korigova okuliarmi ve a ud v bec netu e t mto ochoren m trp",
+                    "v niektor ch pr padoch sa u chor ch m e vyskytn zn en tolerancia nosenia kontaktn ch o oviek alebo chor kontaktn o ovky nezn aj v bec",
+                    "postupom asu ochorenie v razne zni uje kvalitu videnia a v rozvinutej f ze doch dza k zakaleniu rohovky a tie obmedzenie priehladnosti",
+                    "v minulosti b vala jedin m rie en m transplant cia o nej rohovky",
+                    "dnes dok eme transplant ciu oddiali technikou icrs a ccl",
+                    "tandardnou lie bou boli doned vna tvrd kontaktn o ovky nie ka d pacient ich v ak dok zal znies",
+                    "pokrok v o nej medic ne prin a pacientom s keratokonom nov n dej",
+                    "v neov zi kombinujeme viacer kroky pri takzvanej met de ccl corneal cross linking o arujeme tkanivo rohovky ultrafialov m iaren m a pod vame kvapky na spevnenie jej trukt ry",
+                    "tento postup sa vyu va v menej pokro il ch t di ch keratokonu",
+                    "mo n je aj kombin cia s laserovou refrak nou oper ciou prk",
+                    "nesk r nastupuj keraringy alebo ich kombin cia s met dou ccl",
+                    "stabilizuj celkov stav rohovky a zlep uj zrakov ostros",
+                    "lie ebn met dy icrs a ccl s iasto ne hraden zdravotn mi pois ov ami",
+                    "presn ceny z krokov n jdete v cenn ku"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "karaganda",
+                    "j na tasr kari ra slovensk ho hokejistu mareka tvrdo a bude pokra ova v kazachstane",
+                    "to n k ktor v sez ne p sobil v k tskom edinburghu a v iline sa dohodol na spolupr ci s klubom sarjarka karaganda",
+                    "klub o tom informoval na ofici lnej str nke",
+                    "tvrdo za al sez nu v drese edinburgh capitals a v p tn stich z pasoch dosiahol g lov a asistenci",
+                    "po as sez ny sa vr til do slovenskej tipsport ligy v ktorej v minulosti p sobil v drese nitry a dohodol sa na spolupr ci so ilinou",
+                    "za vlkov odohral z pasov v ktor ch strelil g lov a na prihral"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "zima je kone ne tu",
+                    "kto by si bol pomyslel e vianoce s u o t dne",
+                    "je to kr sne obdobie roka samozrejme ned sa nemilova tie svetl a dekor cie t peci lnu atmosf ru",
+                    "pr ve teraz je ten ide lny as za a viano n nakupovanie ak ste tak u neurobili viem e niektor z v s si vedia napl nova as lep ie ne ja aby ste sa vyhli obrovsk m davom ale pod a niektor ch mojich priate ov sa viano n ialenstvo u za alo",
+                    "ka dop dne barbora a ja sme chceli urobi tento pr spevok preto aby sme in pirovali niektor ch z v s a dopadlo to tak e chcem ve a vec z na ich kol",
+                    "predpoklad m e to znamen e sme odviedli dobr pr cu v ak",
+                    "ale v ne pozrite sa na prv kol pre d my",
+                    "bola by som nad en keby som dostala tak dar eky",
+                    "mus m ut i toho mal ho kozmetick ho maniaka v mojom vn tri",
+                    "alebo to neskon dobre d"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "rozjas ova od diora je legend rnou polo kou",
+                    "a balenie je vskutku kr sne t k dobre sa na pozer",
+                    "toto je ten typ dekor cie ktor preferujem a nielen ja ak to nie je plne mimo v ho rozpo tu som si ist e va a mama alebo teta rada dostane nie o tak to predsa len je to k sok luxusu ktor si nekupujeme ka d de",
+                    "bonus vydr roky",
+                    "al m perfektn m darom je parf m tu m ete vidie nov a ve mi ensk v u body od burberry",
+                    "okamih kedy dostanete n dhern flak n parfumu je nie m vz cny",
+                    "ak va a mama teta sestra nem rada trblietky ja sama som bola proti rozjas ova u k m som nezistila ako kr sne a iarivo vyzer na poko ke m ete im da laky na nechty v neutr lnych farb ch tieto farby s st licami v ka dej kolekcii lakov na nechty a nem ete s nimi liapnu ved a",
+                    "do tejto kol e som pridala aj k rastase elixir ultime k ru na ka d typ vlasov pr rodn kozmetiku od yves rocher nie je testovan na zvierat ch kefu tangle teezer skuto n z zrak a je cenovo dostupn roz e e v m vlasy ako ni in",
+                    "mal paletka o n ch tie ov dar ekov sada od dove dobr kvalitn kozmetika s pr jemnou cenou alebo kulma s tie pekn mi dar ekmi"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "tentokr t v okol mlad boleslav",
+                    "ako in aj tentokr t bola d kladn pr prava a cesta bola napl novan s pl nom nav t vi zauj mav ke ky po trase",
+                    "v ber nemohol samozrejme zahrn v etky jednu od druhej ale za tie kr sne miesta o sme nav t vili patr ownerom ve k po akovanie odpovede a foto sa budem ve mi sna i v o najkrat om ase doposla a pr padne doplni aj konkr tne koment re a favori ky",
+                    "hlavn udalos nede n povyrazenie si na s riach tec a jtjpt n s celkom zabavila a ostan nezabudnute n spomienky na celodenn z bavku od svitania do mrku za striedavej pomoci slnie ka vetr ka d dika a toooolk ho logovania kto nesk si nevie o to je za z bavku"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "prof",
+                    "mudr",
+                    "ji he t drsc",
+                    "je lek rsky prominent ktor ho som zatia e te nepo ul dostato ne vehementne vyst pi proti mili nov m pseudol k m a miliardov m panace m v re lnom zdravotn ckom syst me ale ke pr de na boj proti drobn m arlat nom a ich te riu prekyslenie organizmu tak by som ho vo vo be slov len a ko prekonal kysl mo je norm lne situ cie a zis ovanie kyslosti mo u papieriky a najm vyvodzovanie nejak ch z verov o zdravie loveka je nezmysel",
+                    "preto s zbyto n aj v etky prostriedky ktor maj kyslos organizmu zn i",
+                    "cel ot zku a odpove n jdete tu",
+                    "in mi slovami ak sa c tite zdrav o kyslos mo u a prekyslenie organizmu sa nemus te zauj ma",
+                    "tvrdi e rakovina je sp soben prekyslen m je ako keby niekto tvrdil e rakovina je sp soben chr pkou",
+                    "ospravedl ujeme sa ale tento l nok nie je zatia dokon en",
+                    "s asn rozpracovan verzia nevyjadruje jeho kone n podobu"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "na venci u hydromotorov s dvojit m ozuben m",
+                    "kulisa zv uje radi lne rozmery hydromotora iba v jednom mieste obvodu kde je umiestnen klzn kame a v robn n ro nost klzn ho kame a s vodiacou dr kou je men ia ako v robn n ro nos cykloidn ho ozubenia na pripojen ch v kresoch je zn zornen pr klad prevedenia kulisov ho hydromotora pod a vyn lezu kde je na obr",
+                    "usporiadanie mechanizmu kulisov ho hydromotora v prie nom reze rovinou ii ii",
+                    "bez protilaku vytvor sa p soben m tlaku kvapaliny v polovine zubov ch medzier sila ktor pooto plan tu s kulisou okolo apu",
+                    "s asne sa pooto i aj excent r na nosnom hriadeli a o rovnak uhol sa pooto tie smer v slednice hydraulick ch s l",
+                    "nako ko pri pooto eni plan ty vznikne odva ovanie v cykloidnom ozuben pooto sa aj veniec a to tak e pri pooto eni excentra o cel jednu ot ku sa veniec pooto o jednu",
+                    "dosky reaguje na zmeny regulovanej veli iny t",
+                    "j",
+                    "tlaku hydromotora s mal m t zov m posunom o zabezpe uje r chlos stabilitu a kvalitu regula n ho procesu",
+                    "na pripojenom v krese je schematicky zn zornen pr klad prevedenia kombinovan ho regula n ho bvodu tlakovej regul cie hydromotora pod a vyn lezu kombinovan regula n obvod tlakovej regul cie hydromotora pozost va z prv hoservovalca v",
+                    "ktorom je ulo en prv servopiest",
+                    "spojen s v kyv nou doskou s ktorou je nlechanicky spojen tie druh servopiest ulo en v druhom servovalci",
+                    "prv servopiest je opret o pru inu umiestnen v prvom servovalci ktor je cez prv n zkotlakov vedenie napojen na extern pr vod tlaku",
+                    "druh servovalec je cez druh nizkotlakov vedenie napojen na v stup prv ho tlakov ho ventila ktor ho vstup je cez tretie vysokotlakov vedenie a prv"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "progr",
+                    "podpr",
+                    "fun kl",
+                    "ekon kl",
+                    "n zov n vrh n vrh n vrh v daje pl novanie mana ment a kontrola mana ment tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity pr spevok do doplnkov ch d chodkov ch pois ovn kolenia kurzy semin re porady konferencie pr del do soci lneho fondu odmeny zamestnancov mimopracovn ho pomeru mana ment v kon funkcie prim tora tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity reprezenta n jednotlivcovi v kon funkcie prim tora v kon funkcie prednostu tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity reprezenta n v kon funkcie prednostu strategick pl novanie a projekty z bankov ch verov dlhodob ch realiz cia nov ch stavieb rekon trukcia a moderniz cia peci lne slu by pr pravn a projektov dokument cia realiz cia nov ch stavieb rekon trukcia a moderniz cia strategick pl novanie a projekty rozpo et mesta peci lne slu by poplatky a odvody n rodnej banke slovenska rozpo et mesta pl novanie mana ment a kontrola propag cia a marketing propag cia a prezent cia mesta propag cia reklama a inzercia propag cia a prezent cia mesta partnersk mesta tuzemsk partnersk mesta kronika mesta odmeny zamestnancov mimopracovn ho pomeru kronika mesta propag cia a marketing intern slu by mesta pr vne slu by peci lne slu by pr vne slu by innos org nov mesta stravovanie odmeny a pr spevky strana z innos org nov mesta hospod rska spr va a dr ba majetku mesta budov objektov alebo ich ast budov objektov alebo ich ast peci lne slu by hospod rska spr va a dr ba majetku mesta prev dzka radu tuzemsk energie vodn sto n po tov slu by a telekomunika n slu by interi rov vybavenie v po tov technika prev dzkov stroje pr stroje zariadenie v eobecn materi l knihy asopisy noviny u ebnice u ebn pom cky v po tovej techniky prev dzkov ch strojov pr strojov zariaden v eobecn slu by peci lne slu by poplatky a odvody stravovanie poistn rozpo tovej organiz cii na lensk pr spevky prev dzka radu intern informa n syst m peci lne slu by intern informa n syst m autodoprava palivo maziv oleje peci lne kvapaliny servis dr ba opravy a v davky s t m spojen poistenie osobn ch automobilov autodoprava intern slu by mesta slu by ob anom innos matriky tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity pr spevok do doplnkov ch d chodkov ch pois ovn v eobecn materi l pr del do soci lneho fondu innos matriky evidencia obyvate stva tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity v eobecn materi l evidencia obyvate stva organiz cia ob ianskych obradov v eobecn materi l organiz cia ob ianskych obradov noviny na e mesto v eobecn materi l odmeny zamestnancov mimopracovn ho pomeru noviny na e mesto web str nka mesta peci lne slu by web str nka mesta spolo n stavebn rad tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie strana z na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity po tov slu by a telekomunika n slu by v eobecn materi l pr del do soci lneho fondu v eobecn materi l spolo n stavebn rad akt vna zamestnanos tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity v eobecn materi l pr del do soci lneho fondu akt vna zamestnanos slu by ob anom bezpe nos mestsk pol cia tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity pr spevok do doplnkov ch d chodkov ch pois ovn tuzemsk po tov slu by a telekomunika n slu by v eobecn materi l pracovn odevy obuv a pracovn pom cky palivo maziv oleje peci lne kvapaliny servis dr ba opravy a v davky s t m spojen poistenie kolenia kurzy semin re porady konferencie stravovanie pr del do soci lneho fondu mestsk pol cia ochrana pred po iarmi peci lne slu by odmeny zamestnancov mimopracovn ho pomeru ochrana pred po iarmi verejn osvetlenie energie rekon trukcia a moderniz cia verejn osvetlenie bezpe nos komunik cie rekon trukcia chodn kov v meste rekon trukcia a moderniz cia rekon trukcia chodn kov v meste komunik cie vzdel vanie matersk kola rozpo tovej organiz cii matersk kola z kladn kola rozpo tovej organiz cii z kladn kola z kladn umeleck kola tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti strana z na poistenie do rezervn ho fondu solidarity pr spevok do doplnkov ch d chodkov ch pois ovn tuzemsk energie vodn sto n po tov slu by a telekomunika n slu by prev dzkov stroje pr stroje zariadenie v eobecn materi l stravovanie pr del do soci lneho fondu odmeny zamestnancov mimopracovn ho pomeru z kladn umeleck kola kolsk stravovne rozpo tovej organiz cii kolsk stravovne kolsk klub deti rozpo tovej organiz cii kolsk klub deti centrum vo n ho asu rozpo tovej organiz cii centrum vo n ho asu vzdel vanie port podpora portov ch klubov a organiz ci konkurzy a s a e jednotlivcovi podpora portov ch klubov a organiz ci port kult ra mestsk kni nica tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity pr spevok do doplnkov ch d chodkov ch pois ovn energie po tov slu by a telekomunika n slu by v eobecn materi l knihy asopisy noviny u ebnice u ebn pom cky konkurzy a s a e pr del do soci lneho fondu mestsk kni nica mestsk kult rne akcie jarmok reprezenta n mestsk kult rne akcie jarmok grantov podpora kult ry na razov poistenie energie po tov slu by a telekomunika n slu by v po tov technika v eobecn materi l pracovn odevy obuv a pracovn pom cky peci lnych strojov pr strojov zariaden v eobecn slu by odmeny zamestnancov mimopracovn ho pomeru neziskovej organiz cii poskytuj cej v eobecne grantov podpora kult ry kult ra prostredie pre ivot dr ba verejnej zelene pr spevkovej organiz cii dr ba verejnej zelene miestne komunik cie pr spevkovej organiz cii miestne komunik cie zber a separovanie tko pr spevkovej organiz cii zber a separovanie tko zber a odvoz tko dopravn ch prostriedkov strana z pr spevkovej organiz cii zber a odvoz tko portoviska v meste pr spevkovej organiz cii portoviska v meste mana ment ochrany p v eobecn materi l mana ment ochrany p prostredie pre ivot b vanie energie vodn sto n po tov slu by a telekomunika n slu by budov objektov alebo ich ast v eobecn slu by t die expert zy posudky poplatky a odvody b vanie kvalita b vania v eobecn slu by peci lne slu by poplatky a odvody odmeny zamestnancov mimopracovn ho pomeru realiz cia nov ch stavieb kvalita b vania b vanie soci lne slu by opatrovate sk slu ba tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity v eobecn materi l pr del do soci lneho fondu opatrovate sk slu ba kluby d chodcov d vky v hmotnej n dzi v eobecn materi l knihy asopisy noviny u ebnice u ebn pom cky odmeny zamestnancov mimopracovn ho pomeru kluby d chodcov d vky v hmotnej n dzi komunitn pr ca tarifn plat osobn plat z kladn plat funk n poistn do v eobecnej zdravotnej pois ovne na nemocensk poistenie na starobn poistenie na razov poistenie na invalidn poistenie na poistenie v nezamestnanosti na poistenie do rezervn ho fondu solidarity pr spevok do doplnkov ch d chodkov ch pois ovn tuzemsk po tov slu by a telekomunika n slu by v eobecn materi l propag cia reklama a inzercia stravovanie pr del do soci lneho fondu odmeny zamestnancov mimopracovn ho pomeru komunitn pr ca pomoc ob anom v hmotnej a soci lnej n dzi na d vku v hmotnej n dzi a pr spevky k d vke pomoc ob anom v hmotnej a soci lnej n dzi soci lne slu by spolu strana z plnenie rozpo tu mesta iar nad hornom k plnenie rozpo tu ako hlavn ho n stroja finan n ho riadenia mesta bolo k v rozpo tov ch r mcoch ktor boli ur en schv len m ako aj upravovan m"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "iii",
+                    "zasadnutie f ra pre v menu inform ci o najlep ch dostupn ch technik ch sa uskuto n d a",
+                    "a bude zameran na rie enie potrieb odborn kov z priemyslu z po nohospod rstva ako aj z al ch zainteresovan ch str n org nov t tnej a verejnej spr vy vedeckov skumn ch in tit ci a prostredia akademickej obce emisie ortuti predstavuj pre ivotn prostredie ve k probl m v s asnosti je ich hlavn m zdrojom spa ovanie uhlia",
+                    "viac o probl moch spojen ch s ortu ou sa dozviete v spr ve eur pskej environment lnej agent ry mercury in europe s environment",
+                    "n rodn park ve k fatra prin a mo nos sledova iv prenosy z umelo vytvoren ho jazierka ktor sl i na bahnenie divia ej a jelenej zveri",
+                    "ke e v l zkosti lokality nie je in vodn zdroj ur ita sa objavia aj medvede v jesenn ch mesiacoch sa u pred kamerou m u objavi vlci a rys",
+                    "doteraz sa pri jazierku zastavili l ka jazvec kuna medve jelenica a dravec v el r lesn",
+                    "enviroport l pokr va viac ako t m z oblasti ivotn ho prostredia",
+                    "inform cie s prezentovan v nieko k ch form toch web str nky pdf dokumenty sady indik torov vide at pri om v etky inform cie a d ta s pravidelne aktualizovan",
+                    "sledovanie aktualiz ci je asovo n ro n preto sme sa rozhodli pre nov slu bu prostredn ctvom ktorej budete informovan o zmen ch v t mach ktor v s najviac zauj maj",
+                    "pri registr cii zadajte do formul ra va u e mailov adresu a heslo",
+                    "n sledne si zvo te t my a zemn jednotky obec okres kraj o aktualiz cii ktor ch chcete by informovan",
+                    "v pr pade ak chko vek pripomienok n padov at",
+                    "n s m ete kontaktova prostredn ctvom e mailu web enviroportal sk",
+                    "d vod ochrany najmohutnej strom okresu galanta s mimoriadnou krajin rskou hodnotou",
+                    "v znamn z h adiska aklimatiz cie exotick ch drev n v na ej oblasti m estetick a topograficko brann v znam"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "v",
+                    "kole corgo ligy sa futbalisti artmedie bratislava majstrovsky rozl ili so svojim star m tadi nom ke zv azili nad spartakom trnava",
+                    "na ostatn ch tadi noch vo ve k ch hor av ch a mu stiev nedalo g l",
+                    "hne po kone nom hvizde medzin rodn ho rozhodcu ubo a miche a sa na hracej ploche objavilo p dium a na dobr n ladu zneli skladby skupiny boney m",
+                    "hr i na chv u zi li z plochy no o chv u sa na u pri aplauze svojich skaln ch op vr tili",
+                    "generalita slovensk ho futbalu na ele s prezidentom slovensk ho futbalov ho zv zu franti kom laurincom odovzdala nov m majstrom najsk r medaily a potom zlat poh r pre ampi na corgo ligy",
+                    "jedinej slovenskej z stupkyni v portovej pu ke x na svetovom poh ri v mil ne daniele pe kovej sa nepodarilo prebojova medzi fin lov osmi ku",
+                    "s a dobre rozbehla v vodnej polohe le mo dosiahla maximum bodov",
+                    "len e v stoji a polohe k a mo sa jej u tak nedarilo a resp",
+                    "znamenalo kone n s et a a",
+                    "miesto",
+                    "v bratislave naroden v sydney s dliaca za iatkom tohto roka austr liu reprezentuj ca a teraz so skratkou svk za menom inkuj ca jarmila gajdo ov prehrala v utor aj om stretnut",
+                    "kola dvojhry ien na druhom granslamovom turnaji tenisovej sez ny roland garros v par i dot cia eur antuka s dom cou dr ite kou vo nej karty oliviou sanchezovou za min t"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "kolo v",
+                    "ari a inter b podbrezov a ko ice a podbrezov b tren n a sl dkovi ovo inter a su any a vr tky prelo en",
+                    "mlad spev ka mirka mi kechov vydala ned vno al album",
+                    "do ivota ho uv dzala v rodnom meste pova sk bystrica",
+                    "autori projektu hlava zmapovali zatia v tvarn ch diel z rokov a",
+                    "al ch minim lne sto na nich e te len ak",
+                    "weddings love story family and underwater bikini shootings insta softphoto ru xlswell balibabesphoto"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "to asi nep jde",
+                    "je to podobn tomu ke by si pripojil cez usb telef n a chcel by si vedie pr kaz na usb ak m ten telef n disk ram a tak podobne",
+                    "vo v pise lsusb disk neuvid preto e tam vid len sata bridge pomocou ktor ho ho m pripojen na usb zbernicu",
+                    "zauj mav by bol h dam v pis toho bridge o on vid na strane sata",
+                    "tak nie o som e te nevidel preto e ke je ten bridge funk n a nem nahodou poruchu tak opera n syst m na strane sata detekuje disk",
+                    "pod a toho sa da vedie i je bridge funk n",
+                    "ke nejde pripoji vysk aj pou i n stroje na obnovu disku",
+                    "pred t m doporu ujem urobi bitov k piu disku",
+                    "vytvori symbolick link v etc x fontpath d mojefonty smeruj ci na usr share fonts mojefonty"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "od",
+                    "sa za na z pis prij mate ov z dane na rok do not rskeho centr lneho registra sldujte n port l oskoro prinesieme postupy pre v etky typy mvo ako postupova vo i nov mu registru mvo",
+                    "on line poradenstvo sl i na pomoc pri konzult ci ot zok z oblasti neziskov ho sektora prostredn ctvom emailu",
+                    "pod a zlo itosti ot zky zadania bude pou vate port lu itretisektor sk informovan o mo nosti spracovania rie enia odpovede",
+                    "poradenstvo je poskytovan na z klade emailov ho dopytu z emailov ho konta ktor je registrovan v na ej datab ze ako platiaci pou vate",
+                    "konkr tne pr vne probl my je mo n rie i cez individu lnu objedn vku partnerskou advok tskou kancel riou na z klade zaslania va ej po iadavky na sekretariat gplegal eu poradenstvo itretisektor sk m odpor ac v eobecn charakter a nem povahu pr vneho poradenstva v konkr tnych pr vnych veciach pou vate a",
+                    "jeho rozsah bude primeran zadanej ot zke tak aby odpove poskytla pou vate ovi port lu v chodisk rie en pri om rie enie danej pr vnej veci je n zorom t mu port lu",
+                    "zlo itej ie pr vne ot zky a konkr tne pr vne probl my s potrebou posudzovania spisovej dokument cie je mo n v pr pade z ujmu pou vate a konzultova a rie i individu lnou objedn vkou po dohode s partnerskou advok tskou kancel riou"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "pro ti uz ne se niu po je ho vy hl se n ob vi ne n za hl sil s a nos s t m e ju od vod n po do ru e n roz hod nu tia",
+                    "naj vy s d v zmys le ods",
+                    "tr",
+                    "por",
+                    "pres k mal spr v nos v et k ch v ro kov na pad nu t ho uz ne se nia i ko na nie mu pred ch dza j ce a zis til e s a nos ob vi ne n ho je d vod n",
+                    "inak ako z d vo dov a sp so bom kto r us ta no v z kon",
+                    "do v z by mo no vzia iba z d vo dov a na as us ta no ve n z ko nom a na z kla de roz hod nu tia s du",
+                    "sta va v l",
+                    "za h a v pod sta te v et ky pr va kto r vy pl va j aj z l",
+                    "do ho vo ru",
+                    "v pr pa de oboch us ta no ve n ide o ochra nu osob nej slo bo dy a o ur e nie jas n ch li mi tov pre t t nu moc v pr pa de z sa hu do osob nej slo bo dy fy zic kej oso by",
+                    "or g nov in n ch v tres tnom ko na n s to pr ve s dy kto r ma j zod po ved nos za to i v pr pa de oso by ob vi ne nej z tres tn ho i nu bu de pro ti nej tres tn ko na nie ve de n vo v z be v z by v kon kr t nom pr pa de zod po ve da v dy to mu to vz a hu me dzi prin c pom a v nim kou",
+                    "v z ba ako v ni mo n pros trie dok za is te nia ob vi ne n ho pre e ly tres tn ho ko na nia m e by na ne ho uva le n iba v pr pa de zis te nia sku to nos t us ta no ve n ch z ko nom kto r od vod u j ne vyh nut nos jej pou i tia v z uj me v as n ho a n le i t ho ob jas ne nia tres tn ch i nov a spra vod li v ho pos ti hu ich p cha te ov",
+                    "pre to e ide o do as n ob me dzenie osob nej slo bo dy mu s exis to va ne vyh nut nos uva le nia v z by a dr a nia ob vi ne n ho v nej len pre ur i t le gi t m ny el a to len po ur i t as",
+                    "le ho ty v z by v pr p rav nom ko na n a v z ba v ko na n pred s dom m e tr va len ne vyh nut n ne po chyb ne potvr dzu je e ak bol v jed nej tres tnej ve ci z v z by pre pus te n ih ne bol vza t do v z by v dy v bez pros tred nej a so vej nad v z nos ti po skon e n pred ch dza j cich tres tn ch aby v pr pa de neod s de nia v jed nej ve ci mo hol by zob ra t ih ne do v z by v dru hej ve ci",
+                    "pred sta vu je v raz n z sah do osob nej slo bo dy jed not liv ca pre to je pri om nut n pos tu po va v z sa de ne po ru i te n ch ob las t s k ro mia a ud skej d s toj nos ti jed not liv ca",
+                    "pod mien kou vo via ce r ch ko na niach",
+                    "t to sku to nos sp so bi la e ob vi ne n je vo v z be vo via ce r ch s be ne i n s led ne ve de n ch tres tn ch ve ciach u viac ako me sia cov",
+                    "us ta no ve nie s op r v ne n dr a ob vi ne n ho vo v z be pre ka d z tres tn ch i nov z kto r ch je se pa r t ne v s vis los ti s jed n m tres tn m ko na n m vza t do v z by a po maxim l nu do bu ur e n pod a ak cep to va",
+                    "po byt ob vi ne n ho v cu dzi ne nie je mo n hod no ti ako tek a skr va nie sa pred na z kla de vy jad re n ho naj vy s d bol po vin n na pad nu t uz ne se nie zru i v ce lom"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "rok",
+                    "krymsk vojna z rila u tret rok no ni nenasved ovalo e rusi skoro rok uv znen v sevastopole str caj obranyschopnos",
+                    "odolali tyrom ve k m bombardovaniam a za ali pl nova al iu ofenz vu",
+                    "nikto nevedel e t mto tokom si zabili pr slove n posledn klinec do rakvy cel l nok zub rske kreslo je pre mnoh ch ud zhmotnen m ich najhor ch no n ch m r",
+                    "nev bny zvuk v ta ky a predstava od krvi za pinen ho sadistu sp sobuje traumy napriek faktu e z h adiska starostlivosti o udsk chrup a miery bolesti ktor mus pacient podst pi ijeme zatia v najlep ej re dej n",
+                    "cel l nok bitka v cu imskom prielive v m ji dala definit vnu bodku za rusko japonskou vojnou",
+                    "jednou z jej obet bol kr nik dmitrij donskoj",
+                    "jeho vrak teraz na la juhok rejsk s kromn spolo nos",
+                    "k p traniu ich nemotivoval z ujem o n morn hist riu ale legenda e kr nik viezol obrovsk n klad zlata",
+                    "cel l nok odpove na t to ot zku neprest va vzru ova a z rove fascinova ani rokov potom o zmizli",
+                    "ned vne objavenie vrakov oboch straten ch lod exped cie vrh nov svetlo a prin a nov inform cie o jednej z najzn mej ch a z rove najtragickej ch objavn ch plavieb v dejin ch",
+                    "cel l nok ivot na slovenskom vidieku v",
+                    "storo nebol jednoduch",
+                    "a to ani medzi zemep nmi",
+                    "sved o tom i pr beh ist ho imricha odlera z decht c ktor sa s vidinou pekn ho vena o enil aby sa nakoniec so svoj m svokrom musel s di",
+                    "cel l nok"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "dopl uj ce inform cie t denn pobyty v sezonu ervenec srpen pronaj m me cel objekt od soboty do soboty mo nost odhl en se z rezervovan ho pobytu je mo no t den p ed n stupem dovolen jinak cena za pron jem chalupy je v pln v i jak bylo dohodnuto p i rezervaci objektu",
+                    "vybavenie objektu vonkaj ie z hradn n bytok terasa zastre en posedenie z hrada vonkaj baz n detsk ihrisko tr vnat plocha gril krb sklad pre bicykle ly e oploten objekt po rn zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty n dra n zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty domky zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty sada sk zaje mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty bulhary bulhary mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty koz hr dek mikulov mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty bulhary bulhary mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty k epice k epice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty bo etice bo etice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty komensk ho lednice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty u sad hlohovec mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty vrbice vrbice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty vrbice vrbice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty ej ej mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty doln bojanovice mapa vzdialenos km od penzion strachot n nov ml ny p lava odstr ni objektm j v ber zobrazi kontakty"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "o je prostatit da",
+                    "je to z palov proces ktor sa vyskytuje u prostaty u mu ov a je sprev dzan bolestiv mi pr znakmi",
+                    "prostata je s as ou mu sk ch genit li a vykon va ve a d le it ch funkci v tele",
+                    "pod vplyvom ur it ch faktorov sa prostata zv uje stl a mo ov kan l a s a uje mo enie",
+                    "okrem toho z pal prostaty nar a norm lnu sexu lnu erekciu u mu ov",
+                    "po cel as bola prostatit da ochoren m s visiacim s vekom ktor sa objavilo u mu ov po rokoch",
+                    "ale v modernom svete doktori diagnostikuj t to chorobu aj u ro n ch chlapcov",
+                    "ka d desiaty mu m po rokoch prostatit du",
+                    "tieto stra liv tatistiky potvrdzuje medzin rodn organiz cia verejn ho zdravia a ved ci urol govia po celom svete",
+                    "ak ste zistili tieto pr znaky mali by ste okam ite za a lie bu",
+                    "dnes lek rne pon kaj obrovsk po et r znych liekov na prostatit du",
+                    "takmer v etky tieto lieky maj chemick zlo enie zlo iek alebo m u sp sobova ved aj ie inky",
+                    "mnoh lek ri odpor aj pou va pr rodn bylinn doplnky ktor pom haj obnovi norm lnu ve kos prostaty ahko a r chlo",
+                    "jeden tak to produkt je actipotens na lie bu prostatit dy",
+                    "actipotens pre mu ov je inovat vny vzorec na rie enie probl mov prostatit dy v dom cnosti",
+                    "natural fyto obsahuje peci lne vitam ny a v ivn zlo ky ktor r chlo rie i z pal normalizova fungovanie prostaty zlep i mo ovej a zlep enie sexu lnej funkcie",
+                    "v robok m pozit vny inok na imunitn syst m zvy uje fyzick vytrvalos a inne bojuje proti chronickej nav",
+                    "pomocou t chto pr rodn ch kaps l m ete op c ti mlad zbavi sa mnoh ch zdravotn ch probl mov a za a nov ivot",
+                    "actipotens liek na potenciu neobsahuj gmo ch miu ani kodliv ne istoty",
+                    "tento produkt bol testovan v mnoh ch v skumn ch laborat ri ch ktor sa uk zali by vysoko kvalitn a efekt vne",
+                    "iba pou it m tohto potravinov ho doplnku m ete z ska zaru en v sledok bez ve k ho silia",
+                    "ako hovoria odborn ci pou itie tohto pr rodn ho lieku je inn v akejko vek forme prostatit dy alebo erektilnej dysfunkcie",
+                    "kapsuly obsahuj akt vny vzorec ktor m dobr protiz palov a antibakteri lne vlastnosti",
+                    "po nieko k ch d och za pou itia produktu je pozorovan zlep enie mo enie zn enie bolesti a zlep enie mu skej erekcie",
+                    "postupne sa prostata plne obnov a za ne pracova na",
+                    "produkt je prirodzen a pred va sa bez lek rskeho predpisu",
+                    "nie je mo n k pi acti potens v lek rni preto e tieto tabletky sa pred vaj iba na internete",
+                    "v etko actipotens pr sady s rastlinn extrakty vitam ny miner ly a u ito n akt vne doplnky",
+                    "tieto tablety nemaj iadne kontraindik cie pre pou itie a m ete ich pou va v ka dom veku ale viac ako rokov",
+                    "prv v sledky actipotens pred a po sa zobrazia za dn a celkov d ka trvania kurzu je dn",
+                    "ako hovoria odborn ci tento potravinov doplnok m e by hlavn m alebo dodato n m liekom na lie bu prostatit dy",
+                    "okrem toho je dobr m n strojom na prevenciu impotencie a z palu prostaty",
+                    "actipotens k pi bude u ito n pre v etk ch mu ov nad rokov ktor maj sedav ivotn t l alebo probl my s nadv hou",
+                    "pravideln pou vanie t chto vitam nov pom e udr a va e zdravie a sexu lne libido u rokov",
+                    "od prv ch dn pou vania tejto pr sady do potrav n z skate kompletn komplex potrebn ch vitam nov a miner lov",
+                    "bylinn extrakty pom haj zmier ova z paly zlep uj krvn obeh pohlavn ch org nov a normalizuj innos mo ovej trubice",
+                    "zni uje boles zlep uje funkciu sexu lnej funkcie a zvy uje trvanie sexu lneho styku",
+                    "ako p ete actipotens recenzie po pou it tohto produktu u loveka c ti zlep enie sexu lneho zdravia a obnovu pr rodn ch procesov",
+                    "tento v robok sa spe ne pred va vo viac ako krajin ch eur pskej nie a to aj v na ej krajine",
+                    "ak chcete k pi actipotens slovensko sta nav t vi ofici lny online obchod a objedna",
+                    "v porovnan s mnoh mi anal gmi je actipotens cena nieko kon sobne ni ia",
+                    "odpor ame v m u etri as a teraz si objednajte tento produkt so z avou",
+                    "goods eu com je informa n miesto ktor nie je spojen s v robcom tejto pr davnej l tky v potravin ch",
+                    "nepred vame produkty spravujeme len recenzie"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "wolters kluwer s",
+                    "r",
+                    "o",
+                    "patr k popredn m odborn m vydavate stv m na slovensku zaober sa preva ne vyd van m pr vnickej a ekonomickej literat ry v tla enej a elektronickej podobe"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "aute",
+                    "vol m sa martin a k lepeniu papier kov som sa vr til po osemn stich rokoch",
+                    "nie o u zlepen m m ale e te mus m toho veeeela polepi aby to bolo ono",
+                    "m m na mysli kvalitu",
+                    "dovol m si prezentova sa s jedn m moj m model rskym snom",
+                    "nechcem by len pas vny konzument a zhroma ovate modelov ale z itkova svoje sk senosti a zvl dnu model hlohovsk ho z mku",
+                    "je to pre m a v zva",
+                    "ako sa s t m pasujem v m teraz prezentujem",
+                    "po dlh ej dobe ni nerobenia som sa op pustil do lepenia",
+                    "ke e miesto na policiach u nie je a ani vo vitr ne rozhodol som sa pre model ktor bude na stene",
+                    "tam je e te miesta dos haha",
+                    "model ktor som za al patla je captain america busta",
+                    "model je rozlo en na x a stran ch a"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "v en pane mgr",
+                    "t tnick",
+                    "obraciam sa na v s na z klade inform cie ktor mi poskytla u d vno moja kolegy a",
+                    "teraz ale prejdem k podstate",
+                    "pre moju man elku ktor zau van mi onko terapeutick mi modalitami bojuje so zmienen m typom ochorenia mi pre za iatok sprostredkovala jedno balenie en enu taiwantcm liang",
+                    "d fam e ten by sn pozit vnym sp sobom mohol prispie jednak k potla eniu pr znakov samotn ho z kladn ho onkologick ho ochorenia tie k elimin cii ne iad cich inkov lie by oper cie r dioterapia chemoterapia hormon lna terapia po rokoch opakovanej inej chemoterapie tentoraz s v raznej mi ved aj mi inkami",
+                    "dozvedel som sa ale aj o mo n ch priazniv ch inkoch v a kov z huby trametes versicolor",
+                    "chcel by som v s teda naliehavo poprosi o inform ciu t kaj cu sa spomenut ch inkov a ako sa tento prepar t u va",
+                    "na dop sanie l nku o trametes versicolor na va ej webovej str nke adaptogeny cz m rne ak m u dlh iu dobu",
+                    "ak m em poprosi uv tal by som va u skor odpove preto e vzh adom k samotn mu charakteru ochorenia sa mi situ cia potenci lne vid by dos hrozivou st le v ak ver m d fam v mo n priazniv zvrat v priebehu prebiehaj cej onko lie by",
+                    "za pochopenie a skor odpove v m vopred akujem a zost vam s pozdravom mudr",
+                    "martin m",
+                    "slovensko som r d e sa kone ne dost vam k v mu listu chcel by som najprv vyjadri svoju mimoriadnu rados nad t m e m m pr le itos komunikova s lek rom v ho razenia",
+                    "s m som si ako pecializ ciu vybral neurobiol gie a ak by som bol posl chol svoju matku ktor si priala aby som iel tudova medic nu asi by som bol tie inklinoval k neurochirurgii",
+                    "komunik ciu s odborn kom ako vy oce ujem hlavne preto e v m nemus m vysvet ova tis c vec o n doroch a ich priebehu progn ze imunite farmaceutick praxi at",
+                    "v tomto smere by ste naopak iste mohol vysvetli ve a vy mne m v s ale v tomto okamihu rozhodne nem em za a ova",
+                    "ako biol g v m m em oh adom en enu na potvrdi e tu v iadnom pr pade nejde o nie o o by bolo alternat vne v zmysle non lege artis",
+                    "en en je najsilnej m prostriedkom k regener cii imunitn ho syst mu po o iaren alebo podobnom po koden jedy cytostatik ak m s asn veda disponuje",
+                    "aj ke sa to dnes ve mi nezd raz uje u v",
+                    "rokoch to o en enu kon tatoval japonsk imunol g a pecialista na radi ciu morio yonezawa",
+                    "jeho profil mo no n js v japonskej datab ze read citova v tejto s vislosti mo no jeho publik cia yonezawa rri yonezawa rri yonezawa rri",
+                    "a od tej doby sa n m iadna nov scifi tabletka proti r dioaktivite neobjavila",
+                    "v ie mno stvo referenci je mo n n js v l nku inok en enu proti radia nej z a ou ktor postupne dokon ujem",
+                    "pokia ide o priame protirakovinov inky en enu tam je situ cia vo v skume o nie o komplikovanej ie",
+                    "ako iste viete v skum rakoviny je mimoriadne popul rny preto e cel n z padn syst m scientometrie ktor bohu ia slepo preberaj aj na v chode je nastaven tak e minoritn t my zanedb va a popul rne t my rob e te popul rnej mi",
+                    "v bec najmen impakt faktory m t veda ktor je najzlo itej ia matematika",
+                    "tak e z tej sp sty publik ci o inkoch en enu proti rakovine m povedal by som asi tak tretina alebo tvrtina svoje re lne opodstatnenie a zvy ok boli z skan z n dze niekto r chlo potreboval publik ciu do asopisu s vysok m impakt faktorom publikoval predt m nie o o en enu a tak siahol po kombin cii en enu a rakoviny",
+                    "suma sum rum en en u niektor ch onkologick ch indik ci bude asi aj priamo prospe n av ak v porovnan s jeho in mi inkami je t to jeho indik cia relat vne m lo spo ahliv",
+                    "s n dory je to v dy ruleta ale po pam ti viem e leskok rka pomerne dobr m sp sobom zlep uje progn zu u najr znej ch onkologick ch diagn z",
+                    "leskok rka m v bec v t m kr ovsk poves huba nesmrte n ch at ktor je do ur itej miery e te lep ia ako poves en enu",
+                    "t to dobr poves je vod tkom i pre n s dnes sa u vie e t m nebola a nie je v princ pe nevedeck iba kladie podstatne v d raz na genera n prenos poznatkov v nezmenenej forme a k intern mu z pisu inform ci pou va trochu in latinu taoistick terminol gii",
+                    "bohu ia na e spolupracovn ka ktor sa zaoberala mechanizmami inku lesklokorvky si vzala vo no na dobu neur it tak e cel t ma teraz ak na m a",
+                    "o lesklokorce je inak na medlajne cez publik ci ktor ch abstrakty si m u pre ta v etci au niektor ch s verejne pr stupn aj ich pln znenie",
+                    "pokia ide o hubu trametes versicolor tak ak by ste si kontroloval o je o nej publikovan treba pou i star ie synonymum coriolus versicolor",
+                    "vo v skume tejto huby do lo k zauj mav mu javu e meno trametes pou vaj v inou biologick publik cie o ivote a ekol gii tejto huby zatia o vo v skume ich lie iv ch inkov je zau van star ie meno coriolus",
+                    "pod n m k dne n mu d u mo no na medlajne n js publik ci z ktor ch by sa zdalo e protirakovinov inky tejto huby nie s poverou",
+                    "rovnako ako u lesklokorka detaily p sobenia trametes resp",
+                    "tr dnikovec pestr ako n m t to hubu pokrstili esk mykol govia som tie e te nenastudoval",
+                    "inak o z zra n historky o vylie en rakoviny u trametes nie je n dza",
+                    "ale ak aj t mto jednotliv m pr padom nebudeme venova pr li n pozornos tak pre m a je napr klad podstatn fakt e trametes je v protirakovinov indik ci ch ve mi popul rny v japonsku",
+                    "pod vplyvom v ho listu sa budem sna i maxim lne ur chli rev ziu textov o ganoderme a trametes aby d vali itate om aspo t to z kladn predstavu ktor sa teraz sna m odkomunikova v m",
+                    "ak by sa mi to v as nepodarilo bude oskoro mo n si o inkoch t chto h b pre ta v najnov ej knihe huby a ich lie iv inky od ij cej legendy tropick botaniky prof",
+                    "pavla val ka",
+                    "v pr pade boja s rakovinou treba u va lesklok rovka aj tr dnikovec v patri nom mno stve",
+                    "tento typ pr rodn ch lie iv sa dos asto upravuje na pr kov koncentr t forte v ktorom gram pr ku obsahuje extrahovan inn l tky zodpovedaj ce nieko k ch gramom pomletej huby",
+                    "ako pr kov vehikulum koncentr tu sa pou va v inou mlet dospel plodnice dan ho druhu huby",
+                    "koncentr t umo uje u vanie v ch d vok a spo ahlivej ie vstreb vanie inn ch l tok",
+                    "v popred v skumu a spracovanie lie iv ch h b stoja moment lne krajiny v chodnej zie a zvl taiwan kde bol ned vno dokon en projekt sekvencovania a anot cie gen mu lesklokorka leskl",
+                    "na z ver si neodpust m pozn mku k probl mu ktor dnes dostupnos ne kodn ch a pritom inn ch pr rodn ch lie iv ohrozuje najviac budovanie byrokratick ch bari r ktor sa z e cez wto roz ahuj do cel ho sveta",
+                    "konkr tne tr dnikovec pestr trametes versicolor sa pod a nov ch smern c e automaticky dostala do kateg rie potrav n nov ho typu novel food i e jej predaj je zak zan ak sa niekto neodhodl k tomu e sa pust do nieko koro n ho byrokratick ho procesu z skavania zvl tnych povolen od in tit ci e",
+                    "to v doh adnej dobe prakticky znemo uje t to hubu v eu leg lne pred va v kateg rii potrav n",
+                    "predaju tejto huby v kateg rii liekov zase v praxi zabra uj vysok fixn poplatky a liekov registra n proced ry pre byliny plne nevhodn",
+                    "in titucionaliz cie pr rodn ch zdrojov z kazy konkr tnych byl n plo n z kazy v etk ho o ide ozna i n lepkou novel food napriek tis cro n m sk senostiam z kazy uv dzanie inform ci o lie ivosti lie iv ch rastl n at",
+                    "sa prezentuj pod z sterkou skvalit ovania a zodbor ov n fytoterapie ale pri tan t chto z konov je a pr li patrn ich skuto n cie obmedzi slobodu lek rov i laikov rozhodova o terapii a prenies ju na nad t tnej org ny konaj ce na objedn vku farmaceutick ch kartelov",
+                    "tento proces bude ma ve mi neblah vplyv na rove zdravia eur panov aj ekonomiku eur py",
+                    "o tejto s asnej t me viac na nedejmesiprirodu cz"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "jeruzalem",
+                    "apr la webnoviny sk oscarov here ka natalie portman si v j ni neprevezme prest nu izraelsk genesis prize zn mu tie ako idovsk nobelova cenu",
+                    "copyright o dnes kontakt info codnes sk syst m mormys prev dzkuje webdesign webkomplex sk"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "-",
+                "Content": []
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "v azi fin lov ch discipl n na iii",
+                    "svetovom poh ri v r chlostnej kanoistike v d nskej kodane bez asti sr ak ste narazili na zauj mav l nok alebo inform cie dajte n m o nich vedie radi ich spracujeme a n sledne uverejn me"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "pod a odd",
+                    "adn mus ma zodpovedn velite plavidla ako aj osoby zodpovedn za nakl dku tankov ch lnov najnesk r do",
+                    "decembra v osved en o osobitn ch znalostiach adn z pis dr ite sa z astnil vyu ovac ch hod n kolenia stability",
+                    "absolventi na ich kurzov maj kolenie stability zahrnut v u ebn ch osnov ch a teda z pis v osved en adn maj zaznamenan",
+                    "dr itelia ktor absolvovali kolenie v in ch koliacich organiz ci ch a nemaj z pis o kolen stability plavidla m u absolvova osobitn kolenie stability u n s v pr stave bratislava formou jednod ov ho kolenia na z klade ktor ho bude dr ite ovi osved enia vydan nov osved enie s hore uveden m z pisom",
+                    "term ny kolen stability n jdete na na ich webov ch str nkach www dgsa academy sk v pr pade z ujmu alebo dopl uj cich inform ci n s kontaktujte prostredn ctvom emailu academy dgsa sk alebo telefonicky na sle"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "albi s r o",
+                    "pon kame na objedn vku zaslanie poh adn c do ob lok vlastnej v roby s vp san mi textami aj bez nich"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "bu te v obraze",
+                    "pozrite sa ak plavky h bu svetom",
+                    "m me pre v s port l ktor sa zaober plavkami od a po z",
+                    "zh ate in pir ciu pre k pu alebo sa len chcete pokocha",
+                    "u n s sa v m spln oboje",
+                    "u ito n inform cie o parf moch",
+                    "na na om webe n jdete mno stvo inform ci a tipov ako vybra a k pi parfum nielen pre seba ale aj pre svojich bl zkych",
+                    "dozviete sa tu tie o delen parf mov a ich zlo enie"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "vide z rak ska",
+                    "video tvorba a produkcia pre v etky odvetvia priemyslu",
+                    "extr mne portov a po akcii sme va a forma stup ov vlo i video priamo na svojich internetov ch str nkach"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "v ina plaveck ch baz nov trv na tom aby sa v baz ne mal b b tk nek pala z hygienick ch d vodov nah",
+                    "oby ajn plavky nepon kaj iadnu ochranu a jednorazov plienky udr uj vodu a t m p dom preva uj plienku dole",
+                    "nohavi ky na k panie pon kaj oproti oby ajn m plavo k m a plienkam vhodn rie enie",
+                    "maj toti vn torn vodotesn vrstvu ktor neprep a pevn hmotu ani okolo no i iek a ani okolo p sa",
+                    "a tak pr padn nehoda nezanech v baz ne iadne pozostatky",
+                    "na e ocenen nohavi ky na k panie pon kaj oproti oby ajn m plavo k m a plienkam vhodn rie enie",
+                    "v ina plaveck ch baz nov trv na tom aby sa v baz ne mal b b tk nek pala z hygienick ch d vodov nah",
+                    "deti miluj hry na erstvom vzduchu",
+                    "chceli by s vami chodi na prech dzky na trojkolke",
+                    "v na om e shope n jdete trojkolky pre diev at aj chlapcov",
+                    "vyme te ko kovanie za prech dzka a jazdu na detskej trojkolke",
+                    "nov portov aktivita je nie len z bavn ale pozvo na pom e die a u s rozv jan m a budovan m svalstva n h",
+                    "lapacie trojkolky z n ho e shopu m e ovl da die a ale v aka praktickej rukov ti niektor ch modelov m smer jazdy a die a pod kontrolou aj samotn rodi",
+                    "v na om e shope k pite jednoduch trojkolky pre deti ale mestsk trojkolky so strie kou alebo slne n kom ktor ich chr nia pred intenz vnym slnkom ale aj ne akan m da om"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "parisax palette maquillage colors",
+                    "n dhern vank ik od zna ky albi ide lny spolo n k na dlh cesty ocen te podperu hlavy aj kr nej chrbtice",
+                    "zisti viac albi dizajnov gu at vank meloun priemer vank a cm v pl polystyr nov mikrogranul t okr hly relaxa n vank od zna ky albi vykonan",
+                    "zisti viac albi dizajnov relaxa n vank ik s ru ov mi kvetmi",
+                    "materi l nylon spandex v pl polystyr n mikrogranul t",
+                    "t lov relaxa n vank ik od albi z dizajnovej kolekcie o",
+                    "zisti viac"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "k v stavn mu projektu xix",
+                    "umenie",
+                    "storo ia na v chodnom slovensku sme pre v s pripravili bohat sprievodn program v podobe komentovan ch prehliadok predn ok a workshopov",
+                    "program si m ete stiahnu vo forme pdf alebo ho n jdete vytla en v priestoroch v chodoslovenskej gal rie"
+                ]
+            },
+            {
+                "Expected": "SK",
+                "Recognized": "CS",
+                "Content": [
+                    "v sledky vybran ch discipl n na v kendovom",
+                    "ro n ku ve kej ceny kom rna v r chlostnej kanoistike na ktorej sa z astnilo pretek rov z klubov slovenska ma arska eska a slovinska"
+                ]
+            }
+        ]
+    }
+}
